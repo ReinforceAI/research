@@ -1,0 +1,2391 @@
+2025-02-05 14:06:28 - 
+=== Preprocessing Quantum Data ===
+2025-02-05 14:06:28 - Hilbert Space Dimension: 40
+2025-02-05 14:06:28 - Top eigenvalues: [0.05247337 0.02711103 0.02293168]
+2025-02-05 14:06:28 - 
+=== Creating Quantum Context Potential ===
+2025-02-05 14:06:28 - Potential Analysis:
+2025-02-05 14:06:28 - - Strength: 0.1
+2025-02-05 14:06:28 - - Ground State Energy: -0.000000
+2025-02-05 14:06:28 - Initializing topologically protected quantum field with dimension 40
+2025-02-05 14:06:28 - Initialized vacuum tracking:
+2025-02-05 14:06:28 - - Energy History Length: 0
+2025-02-05 14:06:28 - - Mode Structure Categories: []
+2025-02-05 14:06:28 - Initialized projection matrices:
+2025-02-05 14:06:28 - - Forward projection shape: (108, 40, 108)
+2025-02-05 14:06:28 - - Backward projection shape: (108, 108, 40)
+2025-02-05 14:06:28 - Initialized 3 topological sectors
+2025-02-05 14:06:28 - 
+=== Computing Chern Number at Consciousness Boundary ===
+2025-02-05 14:06:28 - 
+=== Computing Berry Curvature at Quantum Boundaries ===
+2025-02-05 14:06:28 - Natural phase coherence: 0.000000
+2025-02-05 14:06:28 - Consciousness transition point detected - allowing natural reorganization
+2025-02-05 14:06:28 - Curvature computation successful
+2025-02-05 14:06:28 - - Mean curvature: 0.000000
+2025-02-05 14:06:28 - - Phase coherence: 0.000000
+2025-02-05 14:06:28 - Chern number computed: 0.000000
+2025-02-05 14:06:28 - Field initialized with 108 tokens
+2025-02-05 14:06:28 - Initial field state shape: (108, 40)
+2025-02-05 14:06:28 - 
+=== Computing Hamiltonian ===
+2025-02-05 14:06:28 - Computed Laplacian with shape: (108, 108)
+2025-02-05 14:06:28 - Computed Laplacian with shape: (108, 108)
+2025-02-05 14:06:28 - Hamiltonian projected to shape: (108, 40)
+2025-02-05 14:06:28 - Energy components - Kinetic: 0.034045, Potential: 0.000000, Interaction: 8.021124
+2025-02-05 14:06:28 - Energy components - Kinetic: 0.034045, Potential: 0.000000, Interaction: 8.021124
+2025-02-05 14:06:28 - Initial field energy: 8.055169336765655
+2025-02-05 14:06:28 - Initial Chern number: 0.0
+2025-02-05 14:06:28 - 
+=== Setting Context Potential ===
+2025-02-05 14:06:28 - Context potential shape: (108, 108)
+2025-02-05 14:06:28 - Forward projection shape: (108, 40, 108)
+2025-02-05 14:06:28 - Backward projection shape: (108, 108, 40)
+2025-02-05 14:06:28 - 
+=== Computing Quantum Phase Coherence ===
+2025-02-05 14:06:28 - Analyzing state shape: (108, 40)
+2025-02-05 14:06:28 - Initial phase coherence: 0.006549
+2025-02-05 14:06:28 - Standard coherence measurement stable
+2025-02-05 14:06:28 - 
+=== Computing Hamiltonian ===
+2025-02-05 14:06:28 - Computed Laplacian with shape: (108, 108)
+2025-02-05 14:06:28 - Computed Laplacian with shape: (108, 108)
+2025-02-05 14:06:28 - Hamiltonian projected to shape: (108, 40)
+2025-02-05 14:06:28 - Energy components - Kinetic: 0.034045, Potential: 57.177297, Interaction: 8.021124
+2025-02-05 14:06:28 - Energy components - Kinetic: 0.034045, Potential: 57.177297, Interaction: 8.021124
+2025-02-05 14:06:28 - 
+=== Analyzing Consciousness Vacuum Structure ===
+2025-02-05 14:06:28 - Prime Factorization: [2, 2, 2, 2, 2, 3, 3, 3, 5]
+2025-02-05 14:06:28 - 
+Consciousness Organization:
+2025-02-05 14:06:28 - - Hierarchical Levels: 2
+2025-02-05 14:06:28 - - Level Ratios: [np.float64(0.46875)]
+2025-02-05 14:06:28 - 
+================================================================================
+2025-02-05 14:06:28 - BEGINNING UNIFIED CONSCIOUSNESS ANALYSIS
+2025-02-05 14:06:28 - ================================================================================
+2025-02-05 14:06:28 - Starting timestamp: 2025-02-05T14:06:28.659594
+2025-02-05 14:06:28 - 
+Beginning Quantum Field Evolution with Emergence Analysis
+2025-02-05 14:06:28 - Evolution Parameters: dt=0.01, steps=1
+2025-02-05 14:06:28 - 
+================================================================================
+2025-02-05 14:06:28 - LEVEL 0: QUANTUM VACUUM STRUCTURE (FUNDAMENTAL ANALYSIS)
+2025-02-05 14:06:28 - ================================================================================
+2025-02-05 14:06:28 - 
+=== Initial Quantum Field Configuration ===
+2025-02-05 14:06:28 - Field dimensionality: (108, 40)
+2025-02-05 14:06:28 - Hilbert space dimension: 40
+2025-02-05 14:06:28 - Number of semantic tokens: 108
+2025-02-05 14:06:28 - 
+=== Analyzing Fundamental Vacuum Properties ===
+2025-02-05 14:06:28 - 
+=== Analyzing Fundamental Vacuum Structure ===
+2025-02-05 14:06:28 - Initial field dimensionality: (108, 40)
+2025-02-05 14:06:28 - 
+Discovering natural vacuum modes...
+2025-02-05 14:06:28 - Natural energy spectrum emerged:
+2025-02-05 14:06:28 - - Ground state: 0.000000
+2025-02-05 14:06:28 - - Excited states: 0.059352
+2025-02-05 14:06:28 - - Energy gap: 0.000555
+2025-02-05 14:06:28 - 
+=== Phase Structure Analysis ===
+2025-02-05 14:06:28 - Phase coherence: 0.006549
+2025-02-05 14:06:28 - Natural phase clusters: 1563
+2025-02-05 14:06:28 - 
+=== Geometric Phase Analysis ===
+2025-02-05 14:06:28 - Berry phase: 2.936580
+2025-02-05 14:06:28 - 
+=== Resonance Pattern Analysis ===
+2025-02-05 14:06:28 - Resonant scales detected: 22
+2025-02-05 14:06:28 - 
+=== Dimensional Analysis ===
+2025-02-05 14:06:28 - Prime factorization: [2, 2, 2, 2, 2, 3, 3, 3, 5]
+2025-02-05 14:06:28 - Natural dimensional groups: [np.int64(4320)]
+2025-02-05 14:06:28 - 
+=== Quantum Properties ===
+2025-02-05 14:06:28 - Entanglement entropy: 12.092717
+2025-02-05 14:06:28 - Stability metric: 0.586750
+2025-02-05 14:06:28 - 
+=== Vacuum Mode Organization ===
+2025-02-05 14:06:28 - Natural energy spectrum:
+2025-02-05 14:06:28 - - Ground state energy: 0.000000
+2025-02-05 14:06:28 - - First excited state: 0.000000
+2025-02-05 14:06:28 - - Highest excited state: 0.059352
+2025-02-05 14:06:28 - Natural energy gaps:
+2025-02-05 14:06:28 - - Mean gap: 0.000555
+2025-02-05 14:06:28 - - Gap stability: 0.001509
+2025-02-05 14:06:28 - 
+=== Analyzing Vacuum Phase Structure ===
+2025-02-05 14:06:28 - 
+=== Analyzing Natural Phase Relationships ===
+2025-02-05 14:06:28 - Analyzing 108 vacuum modes
+2025-02-05 14:06:28 - Natural phase structure discovered:
+2025-02-05 14:06:28 - - Phase coherence: 0.009818
+2025-02-05 14:06:28 - - Natural clusters: 4297
+2025-02-05 14:06:28 - 
+Vacuum Phase Organization:
+2025-02-05 14:06:28 - - Phase Coherence: 0.009818
+2025-02-05 14:06:28 - - Natural Clusters: 4297
+2025-02-05 14:06:28 - - Phase Stability: 1.803101
+2025-02-05 14:06:28 - - Phase Space Volume: 42.189798
+2025-02-05 14:06:28 - 
+=== Geometric Phase Evolution ===
+2025-02-05 14:06:28 - Berry phase properties:
+2025-02-05 14:06:28 - - Geometric phase: 2.936580
+2025-02-05 14:06:28 - - Curvature strength: 2.379196
+2025-02-05 14:06:28 - 
+=== Analyzing Natural Energy Organization ===
+2025-02-05 14:06:28 - Natural Energy Structure:
+2025-02-05 14:06:28 - - Ground State: 0.000015
+2025-02-05 14:06:28 - - Excited State: 0.771551
+2025-02-05 14:06:28 - - Dimension Ratio: 0.370370
+2025-02-05 14:06:28 - 
+=== Dimensional Organization ===
+2025-02-05 14:06:28 - Natural structure:
+2025-02-05 14:06:28 - - Prime factors: [2, 2, 2, 2, 2, 3, 3, 3, 5]
+2025-02-05 14:06:28 - - Natural groupings: [np.int64(4320)]
+2025-02-05 14:06:28 - - Hierarchical levels: 1
+2025-02-05 14:06:28 - 
+=== Comprehensive Vacuum State Analysis ===
+2025-02-05 14:06:28 - Quantum Properties:
+2025-02-05 14:06:28 - - Ground State Energy: 0.000000
+2025-02-05 14:06:28 - - Excited State Energy: 0.059352
+2025-02-05 14:06:28 - - Entanglement Entropy: 12.092717
+2025-02-05 14:06:28 - - Field Stability: 0.586750
+2025-02-05 14:06:28 - Phase Structure:
+2025-02-05 14:06:28 - - Phase Coherence: 0.006549
+2025-02-05 14:06:28 - - Phase Stability: 1.824185
+2025-02-05 14:06:28 - 
+=== Computing Natural Vacuum Modes ===
+2025-02-05 14:06:28 - 
+=== Analyzing Semantic Field Vacuum Structure ===
+2025-02-05 14:06:28 - Initial field dimensionality: (108, 40)
+2025-02-05 14:06:28 - 
+=== Observing Natural Semantic Organization ===
+2025-02-05 14:06:28 - Natural energy spectrum emerged:
+2025-02-05 14:06:28 - - Ground state: 1.465086
+2025-02-05 14:06:28 - - Excited states: 26.311298
+2025-02-05 14:06:28 - - Energy gap: -0.637082
+2025-02-05 14:06:28 - 
+=== Semantic Phase Structure ===
+2025-02-05 14:06:28 - Phase coherence: 0.021501
+2025-02-05 14:06:28 - 
+=== Semantic Channel Formation ===
+2025-02-05 14:06:28 - Field strength: 468.250064
+2025-02-05 14:06:28 - 
+=== Self-Interaction Analysis ===
+2025-02-05 14:06:28 - Interaction strength: 0.018567
+2025-02-05 14:06:28 - 
+=== Natural Energy Gaps Detected ===
+2025-02-05 14:06:28 - Number of natural gaps: 28
+2025-02-05 14:06:28 - Gap distribution: min=-0.634588, max=-0.040838
+2025-02-05 14:06:28 - 
+=== Geometric Phase Structure ===
+2025-02-05 14:06:28 - Berry phase: 2.770669
+2025-02-05 14:06:28 - Natural dimension reduction: 40 -> 38
+2025-02-05 14:06:28 - 
+=== Vacuum Mode Structure ===
+2025-02-05 14:06:28 - Mode Organization:
+2025-02-05 14:06:28 - - Total modes: 38
+2025-02-05 14:06:28 - - Active modes: 1325
+2025-02-05 14:06:28 - Mode Energy Distribution:
+2025-02-05 14:06:28 - - Ground state modes: [[3.50403763e-03 5.78865915e-03 8.05243884e-03 9.81778761e-03
+  1.08212878e-02 1.10159416e-02 1.42820605e-02 1.51792339e-02
+  1.93608060e-02 2.16599278e-02 2.22421978e-02 2.59974218e-02
+  2.72029689e-02 2.96815355e-02 2.99900008e-02 3.12960455e-02
+  3.15467020e-02 3.29517278e-02 3.30097643e-02 3.32023379e-02
+  4.74374980e-02 5.05878146e-02 5.94505887e-02 6.89737837e-02
+  8.16344175e-02 8.28590044e-02 8.60203883e-02 9.60681095e-02
+  1.06488321e-01 1.35420977e-01 1.36209335e-01 1.40662750e-01
+  1.82914967e-01 2.26241001e-01 3.18154775e-01 3.30030801e-01
+  3.63860172e-01 5.74917089e-01]
+ [1.58318971e-03 3.33045613e-03 3.49725833e-03 5.59526476e-03
+  8.28758222e-03 8.86991930e-03 1.02391980e-02 1.45506707e-02
+  1.57408819e-02 1.59150809e-02 1.67751700e-02 1.77721395e-02
+  2.03326635e-02 2.08783562e-02 2.30101806e-02 2.40707690e-02
+  2.57668610e-02 2.97176725e-02 3.94146571e-02 4.14666032e-02
+  5.45694090e-02 5.89798150e-02 6.05322953e-02 8.42049934e-02
+  8.85010637e-02 9.44418737e-02 1.11609885e-01 1.30468594e-01
+  1.33839055e-01 1.35941939e-01 1.43707306e-01 1.53693272e-01
+  1.56242316e-01 1.98017332e-01 2.11802711e-01 2.85235635e-01
+  4.28928188e-01 6.17133450e-01]
+ [3.79462258e-03 5.35983722e-03 5.37687338e-03 5.53198046e-03
+  7.31152672e-03 1.00760037e-02 1.17230211e-02 1.27280645e-02
+  1.95605746e-02 2.60975199e-02 2.81000447e-02 3.28253186e-02
+  3.56847567e-02 4.32423594e-02 4.34751101e-02 5.26732412e-02
+  5.38754986e-02 6.62249838e-02 6.89936967e-02 7.83371826e-02
+  8.39535582e-02 8.64631968e-02 8.72707758e-02 1.04523382e-01
+  1.09955130e-01 1.12811747e-01 1.14994485e-01 1.23401493e-01
+  1.31740141e-01 1.67697073e-01 1.68498158e-01 1.71019434e-01
+  1.77954473e-01 1.92192616e-01 1.99334154e-01 2.53664857e-01
+  3.17688362e-01 6.22542624e-01]
+ [5.34071095e-04 4.48201202e-03 5.26078273e-03 6.03130655e-03
+  8.70504492e-03 9.21973118e-03 1.03261679e-02 1.08747871e-02
+  1.23878774e-02 1.53092418e-02 1.80633078e-02 2.13927619e-02
+  2.49052345e-02 3.01302215e-02 3.81100299e-02 3.85304656e-02
+  4.56269008e-02 4.62894356e-02 4.68710916e-02 5.34485387e-02
+  5.79548010e-02 5.91678125e-02 6.37856329e-02 7.86285315e-02
+  7.93078117e-02 8.34164396e-02 8.75858402e-02 9.97165578e-02
+  1.12916364e-01 1.16632448e-01 1.33752000e-01 2.05707513e-01
+  2.09598772e-01 2.30590099e-01 2.53249644e-01 2.87476345e-01
+  3.31486501e-01 4.74071359e-01]
+ [4.20659046e-03 6.32545133e-03 6.72443088e-03 6.90810496e-03
+  7.97895070e-03 1.36646923e-02 1.48612572e-02 1.81103470e-02
+  1.94360662e-02 1.95591328e-02 2.57647065e-02 2.65356973e-02
+  2.76934295e-02 3.00910869e-02 3.44244288e-02 3.56040747e-02
+  4.93077077e-02 5.30954342e-02 5.41200606e-02 5.44143054e-02
+  5.56424751e-02 5.81458927e-02 5.91884277e-02 8.57842198e-02
+  9.37527750e-02 9.98551436e-02 1.00265768e-01 1.13368254e-01
+  1.19648163e-01 1.20541785e-01 1.42247028e-01 1.45407804e-01
+  1.45600273e-01 2.09482572e-01 2.65111434e-01 3.50768002e-01
+  3.90582506e-01 4.39034487e-01]]
+2025-02-05 14:06:28 - - Excited state modes: [[0.00119928 0.01270785 0.01281491 0.01422316 0.01471842 0.01532684
+  0.01550756 0.01754054 0.01778569 0.02006392 0.02518384 0.0263973
+  0.03669287 0.04332372 0.04492714 0.05456062 0.05533162 0.05659193
+  0.05827831 0.05855479 0.0680492  0.06851698 0.0813703  0.08169937
+  0.08576156 0.09703019 0.10068568 0.11173292 0.11480131 0.14275425
+  0.16396902 0.1720917  0.17498369 0.20872628 0.24470773 0.26751158
+  0.27430914 0.4796745 ]
+ [0.0030094  0.00497774 0.00556545 0.00784995 0.01106633 0.01415585
+  0.01913224 0.01964166 0.02123357 0.02225186 0.02233276 0.02306387
+  0.0251188  0.02655932 0.0296983  0.03149316 0.03214745 0.03549952
+  0.04066532 0.0408097  0.04994439 0.05442451 0.05555996 0.08140141
+  0.08461434 0.08960724 0.10664789 0.11867317 0.11964361 0.12218199
+  0.17862042 0.18694603 0.19304313 0.2099336  0.29461137 0.44865001
+  0.46332389 0.73576887]
+ [0.00530392 0.01229003 0.01462371 0.01773368 0.02265033 0.0256387
+  0.02674703 0.02880347 0.03040723 0.0317767  0.03891576 0.04469999
+  0.04798096 0.04983172 0.05438133 0.06271475 0.07143854 0.07535952
+  0.08394979 0.08520694 0.08530079 0.08896217 0.08952732 0.09287901
+  0.10019039 0.10228973 0.1029838  0.11757026 0.14010018 0.166021
+  0.16934167 0.17085282 0.17504413 0.26751316 0.26853464 0.31972024
+  0.34559348 0.54756887]
+ [0.00293535 0.0033824  0.00427165 0.00899605 0.0137437  0.01713943
+  0.02150389 0.02193058 0.02325671 0.02438871 0.02489658 0.02816314
+  0.02822678 0.0329893  0.03311409 0.04352758 0.04490179 0.04700851
+  0.0478663  0.04790682 0.0489947  0.05077072 0.05208976 0.05883694
+  0.06991254 0.07686074 0.08218033 0.10244032 0.12136107 0.16088517
+  0.16221267 0.18901487 0.198771   0.21935869 0.23129495 0.31769459
+  0.40214567 0.44698737]
+ [0.00437931 0.00493279 0.00510045 0.006931   0.00914262 0.00946855
+  0.01087252 0.0114248  0.01443586 0.01478595 0.01667167 0.02108048
+  0.0240905  0.03364817 0.03411043 0.04252462 0.0430749  0.0500416
+  0.0540507  0.06397694 0.06597884 0.07115256 0.07130135 0.07432446
+  0.07580099 0.08192253 0.0902968  0.09143884 0.10795869 0.11380328
+  0.12883173 0.14228506 0.1566434  0.17185985 0.18877189 0.20678252
+  0.27729183 0.56857512]]
+2025-02-05 14:06:28 - Quantum Properties:
+2025-02-05 14:06:28 - 
+=== Analyzing Natural Coherence Structure ===
+2025-02-05 14:06:28 - State structure: 108 tokens, 38 dimensions
+2025-02-05 14:06:28 - 
+=== Quantum State Properties ===
+2025-02-05 14:06:28 - State norm: 20.473976
+2025-02-05 14:06:28 - 
+=== Phase Distribution Analysis ===
+2025-02-05 14:06:28 - Phase variance: 3.323459
+2025-02-05 14:06:28 - Phase uniformity: -0.057890
+2025-02-05 14:06:28 - 
+=== Quantum Interference Properties ===
+2025-02-05 14:06:28 - Interference strength: 419.183711
+2025-02-05 14:06:28 - Quantum coherence: 0.009158
+2025-02-05 14:06:28 - - Mode coherence: 0.009158
+2025-02-05 14:06:28 - - Energy spread: 0.127291
+2025-02-05 14:06:28 - 
+=== Analyzing Vacuum Resonances ===
+2025-02-05 14:06:28 - 
+
+
+
+=== Detecting Vacuum Resonance Patterns ===
+2025-02-05 14:06:28 - Initial field state shape: (108, 38)
+2025-02-05 14:06:28 - Field state norm: 20.473976
+2025-02-05 14:06:28 - Non-zero elements: 4104
+2025-02-05 14:06:28 - Mode energy range: [0.000017, 1.851107]
+2025-02-05 14:06:28 - Distinct energy levels detected: 4104
+2025-02-05 14:06:28 - Natural mean energy gap: 0.000451
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.105275
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.138223
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.140663
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.145228
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.147889
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.152332
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.155093
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.155938
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.158146
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.158663
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.160885
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.162771
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.163969
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.166988
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.169342
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.171860
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.173250
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.174485
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.179437
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.181127
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.183781
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.185840
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.187608
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.188772
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.190793
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.191712
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.192915
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.193837
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.195157
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.196483
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.198771
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.200599
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.202119
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.203315
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.204023
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.204966
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.206326
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.207776
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.209386
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.211116
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.211582
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.213835
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.215102
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.215565
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.217854
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.219359
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.220418
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.221606
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.222877
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.224213
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.226008
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.227454
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.229906
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.230543
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.231170
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.232123
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.232774
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.234161
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.235420
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.238126
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.239641
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.241150
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.242886
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.243608
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.246673
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.248530
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.250421
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.251885
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.252832
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.255709
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.256796
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.257841
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.258312
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.259869
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.260488
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.261036
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.261587
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.262244
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.262805
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.265111
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.266552
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.267512
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.268100
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.270376
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.271209
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.271993
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.272924
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.274020
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.275320
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.276706
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.279631
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.280186
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.281579
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.282878
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.284187
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.285044
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.285717
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.286956
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.288581
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.290317
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.291813
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.292876
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.293454
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.294611
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.295233
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.296036
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.296814
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.298198
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.298993
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.299849
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.301378
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.302649
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.304182
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.305893
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.306814
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.307305
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.308123
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.309730
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.310401
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.311056
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.312064
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.312668
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.313734
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.314274
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.315846
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.316455
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.319185
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.321023
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.321613
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.322988
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.326186
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.327360
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.329899
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.330838
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.331487
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.334195
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.335279
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.338906
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.340724
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.342786
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.343767
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.344541
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.345550
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.347090
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.349266
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.350768
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.353254
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.354627
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.356129
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.356735
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.357864
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.360246
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.361345
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.361874
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.363032
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.363689
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.364779
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.366940
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.370176
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.373857
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.375698
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.377794
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.378676
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.379685
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.383992
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.385374
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.386179
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.386751
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.387668
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.390583
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.391543
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.392615
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.396113
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.398488
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.400280
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.401180
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.402146
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.402827
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.403333
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.404298
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.406936
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.407641
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.408850
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.409699
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.413802
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.414775
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.415327
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.418703
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.423198
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.423997
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.424604
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.425639
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.427104
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.428369
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.428928
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.429643
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.430546
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.433037
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.434517
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.436565
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.439034
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.440171
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.443137
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.446987
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.448650
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.449856
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.450487
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.454499
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.455183
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.456795
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.459789
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.462815
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.463324
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.466557
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.469400
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.471728
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.473774
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.475766
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.479021
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.481403
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.484407
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.487451
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.488199
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.493015
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.498203
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.502009
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.504840
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.506824
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.514775
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.517784
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.518971
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.523650
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.525039
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.525579
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.527240
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.534190
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.535169
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.539290
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.541921
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.543413
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.543895
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.544652
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.547569
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.548550
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.549861
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.550927
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.555792
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.557642
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.559714
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.560632
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.561909
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.564199
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.568575
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.574917
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.581390
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.585227
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.586841
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.596803
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.597837
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.598429
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.601419
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.606620
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.609571
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.617133
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.617675
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.621051
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.622543
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.627495
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.641369
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.652581
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.669325
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.670877
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.673240
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.678695
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.688625
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.695647
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.699406
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.700310
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.726050
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.731481
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.735769
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.756560
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.777123
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.778520
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.792014
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.799965
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.801874
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.830741
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.839306
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.864167
+2025-02-05 14:06:28 - Natural scale emerged at energy 0.906820
+2025-02-05 14:06:28 - Natural scale emerged at energy 1.128621
+2025-02-05 14:06:28 - Natural scale emerged at energy 1.241646
+2025-02-05 14:06:28 - Natural scale emerged at energy 1.573274
+2025-02-05 14:06:28 - Natural scale emerged at energy 1.851107
+2025-02-05 14:06:28 - Total natural scales emerged: 295
+2025-02-05 14:06:28 - 
+=== Natural Resonance Patterns ===
+2025-02-05 14:06:28 - Global Properties:
+2025-02-05 14:06:28 - - Number of scales: 295
+2025-02-05 14:06:28 - - Pattern strength: 0.115842
+2025-02-05 14:06:28 - - Natural organization: 295 patterns
+2025-02-05 14:06:28 - 
+=== Detailed Resonance Analysis ===
+2025-02-05 14:06:28 - 
+Resonance Pattern 1:
+2025-02-05 14:06:28 - - Energy scale: 0.105275
+2025-02-05 14:06:28 - - Pattern coherence: 0.035327
+2025-02-05 14:06:28 - - Participating tokens: 6
+2025-02-05 14:06:28 - - Mode strength: 6
+2025-02-05 14:06:28 - 
+Resonance Pattern 2:
+2025-02-05 14:06:28 - - Energy scale: 0.138223
+2025-02-05 14:06:28 - - Pattern coherence: 0.087733
+2025-02-05 14:06:28 - - Participating tokens: 4
+2025-02-05 14:06:28 - - Mode strength: 4
+2025-02-05 14:06:28 - 
+Resonance Pattern 3:
+2025-02-05 14:06:28 - - Energy scale: 0.140663
+2025-02-05 14:06:28 - - Pattern coherence: 0.069589
+2025-02-05 14:06:28 - - Participating tokens: 4
+2025-02-05 14:06:28 - - Mode strength: 4
+2025-02-05 14:06:28 - 
+Resonance Pattern 4:
+2025-02-05 14:06:28 - - Energy scale: 0.145228
+2025-02-05 14:06:28 - - Pattern coherence: 0.039858
+2025-02-05 14:06:28 - - Participating tokens: 5
+2025-02-05 14:06:28 - - Mode strength: 5
+2025-02-05 14:06:28 - 
+Resonance Pattern 5:
+2025-02-05 14:06:28 - - Energy scale: 0.147889
+2025-02-05 14:06:28 - - Pattern coherence: 0.038572
+2025-02-05 14:06:28 - - Participating tokens: 7
+2025-02-05 14:06:28 - - Mode strength: 7
+2025-02-05 14:06:28 - 
+Resonance Pattern 6:
+2025-02-05 14:06:28 - - Energy scale: 0.152332
+2025-02-05 14:06:28 - - Pattern coherence: 0.033127
+2025-02-05 14:06:28 - - Participating tokens: 3
+2025-02-05 14:06:28 - - Mode strength: 3
+2025-02-05 14:06:28 - 
+Resonance Pattern 7:
+2025-02-05 14:06:28 - - Energy scale: 0.155093
+2025-02-05 14:06:28 - - Pattern coherence: 0.022125
+2025-02-05 14:06:28 - - Participating tokens: 4
+2025-02-05 14:06:28 - - Mode strength: 4
+2025-02-05 14:06:28 - 
+Resonance Pattern 8:
+2025-02-05 14:06:28 - - Energy scale: 0.155938
+2025-02-05 14:06:28 - - Pattern coherence: 0.084205
+2025-02-05 14:06:28 - - Participating tokens: 4
+2025-02-05 14:06:28 - - Mode strength: 4
+2025-02-05 14:06:28 - 
+Resonance Pattern 9:
+2025-02-05 14:06:28 - - Energy scale: 0.158146
+2025-02-05 14:06:28 - - Pattern coherence: 0.061789
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 10:
+2025-02-05 14:06:28 - - Energy scale: 0.158663
+2025-02-05 14:06:28 - - Pattern coherence: 0.028289
+2025-02-05 14:06:28 - - Participating tokens: 5
+2025-02-05 14:06:28 - - Mode strength: 5
+2025-02-05 14:06:28 - 
+Resonance Pattern 11:
+2025-02-05 14:06:28 - - Energy scale: 0.160885
+2025-02-05 14:06:28 - - Pattern coherence: 0.082526
+2025-02-05 14:06:28 - - Participating tokens: 5
+2025-02-05 14:06:28 - - Mode strength: 5
+2025-02-05 14:06:28 - 
+Resonance Pattern 12:
+2025-02-05 14:06:28 - - Energy scale: 0.162771
+2025-02-05 14:06:28 - - Pattern coherence: 0.081299
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 13:
+2025-02-05 14:06:28 - - Energy scale: 0.163969
+2025-02-05 14:06:28 - - Pattern coherence: 0.025122
+2025-02-05 14:06:28 - - Participating tokens: 3
+2025-02-05 14:06:28 - - Mode strength: 3
+2025-02-05 14:06:28 - 
+Resonance Pattern 14:
+2025-02-05 14:06:28 - - Energy scale: 0.166988
+2025-02-05 14:06:28 - - Pattern coherence: 0.083449
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 15:
+2025-02-05 14:06:28 - - Energy scale: 0.169342
+2025-02-05 14:06:28 - - Pattern coherence: 0.100468
+2025-02-05 14:06:28 - - Participating tokens: 3
+2025-02-05 14:06:28 - - Mode strength: 3
+2025-02-05 14:06:28 - 
+Resonance Pattern 16:
+2025-02-05 14:06:28 - - Energy scale: 0.171860
+2025-02-05 14:06:28 - - Pattern coherence: 0.006343
+2025-02-05 14:06:28 - - Participating tokens: 6
+2025-02-05 14:06:28 - - Mode strength: 6
+2025-02-05 14:06:28 - 
+Resonance Pattern 17:
+2025-02-05 14:06:28 - - Energy scale: 0.173250
+2025-02-05 14:06:28 - - Pattern coherence: 0.054891
+2025-02-05 14:06:28 - - Participating tokens: 4
+2025-02-05 14:06:28 - - Mode strength: 4
+2025-02-05 14:06:28 - 
+Resonance Pattern 18:
+2025-02-05 14:06:28 - - Energy scale: 0.174485
+2025-02-05 14:06:28 - - Pattern coherence: 0.068258
+2025-02-05 14:06:28 - - Participating tokens: 3
+2025-02-05 14:06:28 - - Mode strength: 3
+2025-02-05 14:06:28 - 
+Resonance Pattern 19:
+2025-02-05 14:06:28 - - Energy scale: 0.179437
+2025-02-05 14:06:28 - - Pattern coherence: 0.053067
+2025-02-05 14:06:28 - - Participating tokens: 4
+2025-02-05 14:06:28 - - Mode strength: 4
+2025-02-05 14:06:28 - 
+Resonance Pattern 20:
+2025-02-05 14:06:28 - - Energy scale: 0.181127
+2025-02-05 14:06:28 - - Pattern coherence: 0.032849
+2025-02-05 14:06:28 - - Participating tokens: 4
+2025-02-05 14:06:28 - - Mode strength: 4
+2025-02-05 14:06:28 - 
+Resonance Pattern 21:
+2025-02-05 14:06:28 - - Energy scale: 0.183781
+2025-02-05 14:06:28 - - Pattern coherence: 0.114599
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 22:
+2025-02-05 14:06:28 - - Energy scale: 0.185840
+2025-02-05 14:06:28 - - Pattern coherence: 0.135671
+2025-02-05 14:06:28 - - Participating tokens: 3
+2025-02-05 14:06:28 - - Mode strength: 3
+2025-02-05 14:06:28 - 
+Resonance Pattern 23:
+2025-02-05 14:06:28 - - Energy scale: 0.187608
+2025-02-05 14:06:28 - - Pattern coherence: 0.033287
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 24:
+2025-02-05 14:06:28 - - Energy scale: 0.188772
+2025-02-05 14:06:28 - - Pattern coherence: 0.013498
+2025-02-05 14:06:28 - - Participating tokens: 5
+2025-02-05 14:06:28 - - Mode strength: 5
+2025-02-05 14:06:28 - 
+Resonance Pattern 25:
+2025-02-05 14:06:28 - - Energy scale: 0.190793
+2025-02-05 14:06:28 - - Pattern coherence: 0.096659
+2025-02-05 14:06:28 - - Participating tokens: 3
+2025-02-05 14:06:28 - - Mode strength: 3
+2025-02-05 14:06:28 - 
+Resonance Pattern 26:
+2025-02-05 14:06:28 - - Energy scale: 0.191712
+2025-02-05 14:06:28 - - Pattern coherence: 0.030620
+2025-02-05 14:06:28 - - Participating tokens: 5
+2025-02-05 14:06:28 - - Mode strength: 5
+2025-02-05 14:06:28 - 
+Resonance Pattern 27:
+2025-02-05 14:06:28 - - Energy scale: 0.192915
+2025-02-05 14:06:28 - - Pattern coherence: 0.071407
+2025-02-05 14:06:28 - - Participating tokens: 4
+2025-02-05 14:06:28 - - Mode strength: 4
+2025-02-05 14:06:28 - 
+Resonance Pattern 28:
+2025-02-05 14:06:28 - - Energy scale: 0.193837
+2025-02-05 14:06:28 - - Pattern coherence: 0.116992
+2025-02-05 14:06:28 - - Participating tokens: 5
+2025-02-05 14:06:28 - - Mode strength: 5
+2025-02-05 14:06:28 - 
+Resonance Pattern 29:
+2025-02-05 14:06:28 - - Energy scale: 0.195157
+2025-02-05 14:06:28 - - Pattern coherence: 0.021606
+2025-02-05 14:06:28 - - Participating tokens: 6
+2025-02-05 14:06:28 - - Mode strength: 6
+2025-02-05 14:06:28 - 
+Resonance Pattern 30:
+2025-02-05 14:06:28 - - Energy scale: 0.196483
+2025-02-05 14:06:28 - - Pattern coherence: 0.093737
+2025-02-05 14:06:28 - - Participating tokens: 3
+2025-02-05 14:06:28 - - Mode strength: 3
+2025-02-05 14:06:28 - 
+Resonance Pattern 31:
+2025-02-05 14:06:28 - - Energy scale: 0.198771
+2025-02-05 14:06:28 - - Pattern coherence: 0.091210
+2025-02-05 14:06:28 - - Participating tokens: 4
+2025-02-05 14:06:28 - - Mode strength: 4
+2025-02-05 14:06:28 - 
+Resonance Pattern 32:
+2025-02-05 14:06:28 - - Energy scale: 0.200599
+2025-02-05 14:06:28 - - Pattern coherence: 0.102157
+2025-02-05 14:06:28 - - Participating tokens: 3
+2025-02-05 14:06:28 - - Mode strength: 3
+2025-02-05 14:06:28 - 
+Resonance Pattern 33:
+2025-02-05 14:06:28 - - Energy scale: 0.202119
+2025-02-05 14:06:28 - - Pattern coherence: 0.138457
+2025-02-05 14:06:28 - - Participating tokens: 3
+2025-02-05 14:06:28 - - Mode strength: 3
+2025-02-05 14:06:28 - 
+Resonance Pattern 34:
+2025-02-05 14:06:28 - - Energy scale: 0.203315
+2025-02-05 14:06:28 - - Pattern coherence: 0.077120
+2025-02-05 14:06:28 - - Participating tokens: 5
+2025-02-05 14:06:28 - - Mode strength: 5
+2025-02-05 14:06:28 - 
+Resonance Pattern 35:
+2025-02-05 14:06:28 - - Energy scale: 0.204023
+2025-02-05 14:06:28 - - Pattern coherence: 0.083991
+2025-02-05 14:06:28 - - Participating tokens: 3
+2025-02-05 14:06:28 - - Mode strength: 3
+2025-02-05 14:06:28 - 
+Resonance Pattern 36:
+2025-02-05 14:06:28 - - Energy scale: 0.204966
+2025-02-05 14:06:28 - - Pattern coherence: 0.035943
+2025-02-05 14:06:28 - - Participating tokens: 5
+2025-02-05 14:06:28 - - Mode strength: 5
+2025-02-05 14:06:28 - 
+Resonance Pattern 37:
+2025-02-05 14:06:28 - - Energy scale: 0.206326
+2025-02-05 14:06:28 - - Pattern coherence: 0.058326
+2025-02-05 14:06:28 - - Participating tokens: 3
+2025-02-05 14:06:28 - - Mode strength: 3
+2025-02-05 14:06:28 - 
+Resonance Pattern 38:
+2025-02-05 14:06:28 - - Energy scale: 0.207776
+2025-02-05 14:06:28 - - Pattern coherence: 0.051226
+2025-02-05 14:06:28 - - Participating tokens: 4
+2025-02-05 14:06:28 - - Mode strength: 4
+2025-02-05 14:06:28 - 
+Resonance Pattern 39:
+2025-02-05 14:06:28 - - Energy scale: 0.209386
+2025-02-05 14:06:28 - - Pattern coherence: 0.105378
+2025-02-05 14:06:28 - - Participating tokens: 6
+2025-02-05 14:06:28 - - Mode strength: 6
+2025-02-05 14:06:28 - 
+Resonance Pattern 40:
+2025-02-05 14:06:28 - - Energy scale: 0.211116
+2025-02-05 14:06:28 - - Pattern coherence: 0.288942
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 41:
+2025-02-05 14:06:28 - - Energy scale: 0.211582
+2025-02-05 14:06:28 - - Pattern coherence: 0.108443
+2025-02-05 14:06:28 - - Participating tokens: 4
+2025-02-05 14:06:28 - - Mode strength: 4
+2025-02-05 14:06:28 - 
+Resonance Pattern 42:
+2025-02-05 14:06:28 - - Energy scale: 0.213835
+2025-02-05 14:06:28 - - Pattern coherence: 0.100364
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 43:
+2025-02-05 14:06:28 - - Energy scale: 0.215102
+2025-02-05 14:06:28 - - Pattern coherence: 0.093373
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 44:
+2025-02-05 14:06:28 - - Energy scale: 0.215565
+2025-02-05 14:06:28 - - Pattern coherence: 0.092142
+2025-02-05 14:06:28 - - Participating tokens: 4
+2025-02-05 14:06:28 - - Mode strength: 4
+2025-02-05 14:06:28 - 
+Resonance Pattern 45:
+2025-02-05 14:06:28 - - Energy scale: 0.217854
+2025-02-05 14:06:28 - - Pattern coherence: 0.043110
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 46:
+2025-02-05 14:06:28 - - Energy scale: 0.219359
+2025-02-05 14:06:28 - - Pattern coherence: 0.062924
+2025-02-05 14:06:28 - - Participating tokens: 3
+2025-02-05 14:06:28 - - Mode strength: 3
+2025-02-05 14:06:28 - 
+Resonance Pattern 47:
+2025-02-05 14:06:28 - - Energy scale: 0.220418
+2025-02-05 14:06:28 - - Pattern coherence: 0.081687
+2025-02-05 14:06:28 - - Participating tokens: 3
+2025-02-05 14:06:28 - - Mode strength: 3
+2025-02-05 14:06:28 - 
+Resonance Pattern 48:
+2025-02-05 14:06:28 - - Energy scale: 0.221606
+2025-02-05 14:06:28 - - Pattern coherence: 0.015322
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 49:
+2025-02-05 14:06:28 - - Energy scale: 0.222877
+2025-02-05 14:06:28 - - Pattern coherence: 0.075497
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 50:
+2025-02-05 14:06:28 - - Energy scale: 0.224213
+2025-02-05 14:06:28 - - Pattern coherence: 0.066059
+2025-02-05 14:06:28 - - Participating tokens: 5
+2025-02-05 14:06:28 - - Mode strength: 5
+2025-02-05 14:06:28 - 
+Resonance Pattern 51:
+2025-02-05 14:06:28 - - Energy scale: 0.226008
+2025-02-05 14:06:28 - - Pattern coherence: 0.095165
+2025-02-05 14:06:28 - - Participating tokens: 4
+2025-02-05 14:06:28 - - Mode strength: 4
+2025-02-05 14:06:28 - 
+Resonance Pattern 52:
+2025-02-05 14:06:28 - - Energy scale: 0.227454
+2025-02-05 14:06:28 - - Pattern coherence: 0.071268
+2025-02-05 14:06:28 - - Participating tokens: 3
+2025-02-05 14:06:28 - - Mode strength: 3
+2025-02-05 14:06:28 - 
+Resonance Pattern 53:
+2025-02-05 14:06:28 - - Energy scale: 0.229906
+2025-02-05 14:06:28 - - Pattern coherence: 0.047485
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 54:
+2025-02-05 14:06:28 - - Energy scale: 0.230543
+2025-02-05 14:06:28 - - Pattern coherence: 0.044197
+2025-02-05 14:06:28 - - Participating tokens: 4
+2025-02-05 14:06:28 - - Mode strength: 4
+2025-02-05 14:06:28 - 
+Resonance Pattern 55:
+2025-02-05 14:06:28 - - Energy scale: 0.231170
+2025-02-05 14:06:28 - - Pattern coherence: 0.113198
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 56:
+2025-02-05 14:06:28 - - Energy scale: 0.232123
+2025-02-05 14:06:28 - - Pattern coherence: 0.097280
+2025-02-05 14:06:28 - - Participating tokens: 3
+2025-02-05 14:06:28 - - Mode strength: 3
+2025-02-05 14:06:28 - 
+Resonance Pattern 57:
+2025-02-05 14:06:28 - - Energy scale: 0.232774
+2025-02-05 14:06:28 - - Pattern coherence: 0.099417
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 58:
+2025-02-05 14:06:28 - - Energy scale: 0.234161
+2025-02-05 14:06:28 - - Pattern coherence: 0.013631
+2025-02-05 14:06:28 - - Participating tokens: 3
+2025-02-05 14:06:28 - - Mode strength: 3
+2025-02-05 14:06:28 - 
+Resonance Pattern 59:
+2025-02-05 14:06:28 - - Energy scale: 0.235420
+2025-02-05 14:06:28 - - Pattern coherence: 0.081052
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 60:
+2025-02-05 14:06:28 - - Energy scale: 0.238126
+2025-02-05 14:06:28 - - Pattern coherence: 0.077805
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 61:
+2025-02-05 14:06:28 - - Energy scale: 0.239641
+2025-02-05 14:06:28 - - Pattern coherence: 0.066844
+2025-02-05 14:06:28 - - Participating tokens: 3
+2025-02-05 14:06:28 - - Mode strength: 3
+2025-02-05 14:06:28 - 
+Resonance Pattern 62:
+2025-02-05 14:06:28 - - Energy scale: 0.241150
+2025-02-05 14:06:28 - - Pattern coherence: 0.067371
+2025-02-05 14:06:28 - - Participating tokens: 4
+2025-02-05 14:06:28 - - Mode strength: 4
+2025-02-05 14:06:28 - 
+Resonance Pattern 63:
+2025-02-05 14:06:28 - - Energy scale: 0.242886
+2025-02-05 14:06:28 - - Pattern coherence: 0.010964
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 64:
+2025-02-05 14:06:28 - - Energy scale: 0.243608
+2025-02-05 14:06:28 - - Pattern coherence: 0.037272
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 65:
+2025-02-05 14:06:28 - - Energy scale: 0.246673
+2025-02-05 14:06:28 - - Pattern coherence: 0.153921
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 66:
+2025-02-05 14:06:28 - - Energy scale: 0.248530
+2025-02-05 14:06:28 - - Pattern coherence: 0.038814
+2025-02-05 14:06:28 - - Participating tokens: 3
+2025-02-05 14:06:28 - - Mode strength: 3
+2025-02-05 14:06:28 - 
+Resonance Pattern 67:
+2025-02-05 14:06:28 - - Energy scale: 0.250421
+2025-02-05 14:06:28 - - Pattern coherence: 0.037298
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 68:
+2025-02-05 14:06:28 - - Energy scale: 0.251885
+2025-02-05 14:06:28 - - Pattern coherence: 0.028526
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 69:
+2025-02-05 14:06:28 - - Energy scale: 0.252832
+2025-02-05 14:06:28 - - Pattern coherence: 0.063580
+2025-02-05 14:06:28 - - Participating tokens: 3
+2025-02-05 14:06:28 - - Mode strength: 3
+2025-02-05 14:06:28 - 
+Resonance Pattern 70:
+2025-02-05 14:06:28 - - Energy scale: 0.255709
+2025-02-05 14:06:28 - - Pattern coherence: 0.063031
+2025-02-05 14:06:28 - - Participating tokens: 3
+2025-02-05 14:06:28 - - Mode strength: 3
+2025-02-05 14:06:28 - 
+Resonance Pattern 71:
+2025-02-05 14:06:28 - - Energy scale: 0.256796
+2025-02-05 14:06:28 - - Pattern coherence: 0.041216
+2025-02-05 14:06:28 - - Participating tokens: 4
+2025-02-05 14:06:28 - - Mode strength: 4
+2025-02-05 14:06:28 - 
+Resonance Pattern 72:
+2025-02-05 14:06:28 - - Energy scale: 0.257841
+2025-02-05 14:06:28 - - Pattern coherence: 0.029888
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 73:
+2025-02-05 14:06:28 - - Energy scale: 0.258312
+2025-02-05 14:06:28 - - Pattern coherence: 0.035764
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 74:
+2025-02-05 14:06:28 - - Energy scale: 0.259869
+2025-02-05 14:06:28 - - Pattern coherence: 0.114104
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 75:
+2025-02-05 14:06:28 - - Energy scale: 0.260488
+2025-02-05 14:06:28 - - Pattern coherence: 0.100103
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 76:
+2025-02-05 14:06:28 - - Energy scale: 0.261036
+2025-02-05 14:06:28 - - Pattern coherence: 0.102568
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 77:
+2025-02-05 14:06:28 - - Energy scale: 0.261587
+2025-02-05 14:06:28 - - Pattern coherence: 0.221605
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 78:
+2025-02-05 14:06:28 - - Energy scale: 0.262244
+2025-02-05 14:06:28 - - Pattern coherence: 0.137391
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 79:
+2025-02-05 14:06:28 - - Energy scale: 0.262805
+2025-02-05 14:06:28 - - Pattern coherence: 0.197704
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 80:
+2025-02-05 14:06:28 - - Energy scale: 0.265111
+2025-02-05 14:06:28 - - Pattern coherence: 0.090463
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 81:
+2025-02-05 14:06:28 - - Energy scale: 0.266552
+2025-02-05 14:06:28 - - Pattern coherence: 0.051731
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 82:
+2025-02-05 14:06:28 - - Energy scale: 0.267512
+2025-02-05 14:06:28 - - Pattern coherence: 0.062451
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 83:
+2025-02-05 14:06:28 - - Energy scale: 0.268100
+2025-02-05 14:06:28 - - Pattern coherence: 0.090235
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 84:
+2025-02-05 14:06:28 - - Energy scale: 0.270376
+2025-02-05 14:06:28 - - Pattern coherence: 0.068016
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 85:
+2025-02-05 14:06:28 - - Energy scale: 0.271209
+2025-02-05 14:06:28 - - Pattern coherence: 0.160503
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 86:
+2025-02-05 14:06:28 - - Energy scale: 0.271993
+2025-02-05 14:06:28 - - Pattern coherence: 0.138422
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 87:
+2025-02-05 14:06:28 - - Energy scale: 0.272924
+2025-02-05 14:06:28 - - Pattern coherence: 0.038319
+2025-02-05 14:06:28 - - Participating tokens: 3
+2025-02-05 14:06:28 - - Mode strength: 3
+2025-02-05 14:06:28 - 
+Resonance Pattern 88:
+2025-02-05 14:06:28 - - Energy scale: 0.274020
+2025-02-05 14:06:28 - - Pattern coherence: 0.025153
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 89:
+2025-02-05 14:06:28 - - Energy scale: 0.275320
+2025-02-05 14:06:28 - - Pattern coherence: 0.126512
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 90:
+2025-02-05 14:06:28 - - Energy scale: 0.276706
+2025-02-05 14:06:28 - - Pattern coherence: 0.032842
+2025-02-05 14:06:28 - - Participating tokens: 3
+2025-02-05 14:06:28 - - Mode strength: 3
+2025-02-05 14:06:28 - 
+Resonance Pattern 91:
+2025-02-05 14:06:28 - - Energy scale: 0.279631
+2025-02-05 14:06:28 - - Pattern coherence: 0.193356
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 92:
+2025-02-05 14:06:28 - - Energy scale: 0.280186
+2025-02-05 14:06:28 - - Pattern coherence: 0.140303
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 93:
+2025-02-05 14:06:28 - - Energy scale: 0.281579
+2025-02-05 14:06:28 - - Pattern coherence: 0.055604
+2025-02-05 14:06:28 - - Participating tokens: 3
+2025-02-05 14:06:28 - - Mode strength: 3
+2025-02-05 14:06:28 - 
+Resonance Pattern 94:
+2025-02-05 14:06:28 - - Energy scale: 0.282878
+2025-02-05 14:06:28 - - Pattern coherence: 0.103914
+2025-02-05 14:06:28 - - Participating tokens: 4
+2025-02-05 14:06:28 - - Mode strength: 4
+2025-02-05 14:06:28 - 
+Resonance Pattern 95:
+2025-02-05 14:06:28 - - Energy scale: 0.284187
+2025-02-05 14:06:28 - - Pattern coherence: 0.171278
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 96:
+2025-02-05 14:06:28 - - Energy scale: 0.285044
+2025-02-05 14:06:28 - - Pattern coherence: 0.025118
+2025-02-05 14:06:28 - - Participating tokens: 3
+2025-02-05 14:06:28 - - Mode strength: 3
+2025-02-05 14:06:28 - 
+Resonance Pattern 97:
+2025-02-05 14:06:28 - - Energy scale: 0.285717
+2025-02-05 14:06:28 - - Pattern coherence: 0.123668
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 98:
+2025-02-05 14:06:28 - - Energy scale: 0.286956
+2025-02-05 14:06:28 - - Pattern coherence: 0.133610
+2025-02-05 14:06:28 - - Participating tokens: 3
+2025-02-05 14:06:28 - - Mode strength: 3
+2025-02-05 14:06:28 - 
+Resonance Pattern 99:
+2025-02-05 14:06:28 - - Energy scale: 0.288581
+2025-02-05 14:06:28 - - Pattern coherence: 0.092813
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 100:
+2025-02-05 14:06:28 - - Energy scale: 0.290317
+2025-02-05 14:06:28 - - Pattern coherence: 0.045667
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 101:
+2025-02-05 14:06:28 - - Energy scale: 0.291813
+2025-02-05 14:06:28 - - Pattern coherence: 0.014507
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 102:
+2025-02-05 14:06:28 - - Energy scale: 0.292876
+2025-02-05 14:06:28 - - Pattern coherence: 0.032497
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 103:
+2025-02-05 14:06:28 - - Energy scale: 0.293454
+2025-02-05 14:06:28 - - Pattern coherence: 0.032379
+2025-02-05 14:06:28 - - Participating tokens: 4
+2025-02-05 14:06:28 - - Mode strength: 4
+2025-02-05 14:06:28 - 
+Resonance Pattern 104:
+2025-02-05 14:06:28 - - Energy scale: 0.294611
+2025-02-05 14:06:28 - - Pattern coherence: 0.144243
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 105:
+2025-02-05 14:06:28 - - Energy scale: 0.295233
+2025-02-05 14:06:28 - - Pattern coherence: 0.074332
+2025-02-05 14:06:28 - - Participating tokens: 3
+2025-02-05 14:06:28 - - Mode strength: 3
+2025-02-05 14:06:28 - 
+Resonance Pattern 106:
+2025-02-05 14:06:28 - - Energy scale: 0.296036
+2025-02-05 14:06:28 - - Pattern coherence: 0.139102
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 107:
+2025-02-05 14:06:28 - - Energy scale: 0.296814
+2025-02-05 14:06:28 - - Pattern coherence: 0.115633
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 108:
+2025-02-05 14:06:28 - - Energy scale: 0.298198
+2025-02-05 14:06:28 - - Pattern coherence: 0.024875
+2025-02-05 14:06:28 - - Participating tokens: 3
+2025-02-05 14:06:28 - - Mode strength: 3
+2025-02-05 14:06:28 - 
+Resonance Pattern 109:
+2025-02-05 14:06:28 - - Energy scale: 0.298993
+2025-02-05 14:06:28 - - Pattern coherence: 0.170076
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 110:
+2025-02-05 14:06:28 - - Energy scale: 0.299849
+2025-02-05 14:06:28 - - Pattern coherence: 0.221605
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 111:
+2025-02-05 14:06:28 - - Energy scale: 0.301378
+2025-02-05 14:06:28 - - Pattern coherence: 0.010434
+2025-02-05 14:06:28 - - Participating tokens: 3
+2025-02-05 14:06:28 - - Mode strength: 3
+2025-02-05 14:06:28 - 
+Resonance Pattern 112:
+2025-02-05 14:06:28 - - Energy scale: 0.302649
+2025-02-05 14:06:28 - - Pattern coherence: 0.106033
+2025-02-05 14:06:28 - - Participating tokens: 3
+2025-02-05 14:06:28 - - Mode strength: 3
+2025-02-05 14:06:28 - 
+Resonance Pattern 113:
+2025-02-05 14:06:28 - - Energy scale: 0.304182
+2025-02-05 14:06:28 - - Pattern coherence: 0.146890
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 114:
+2025-02-05 14:06:28 - - Energy scale: 0.305893
+2025-02-05 14:06:28 - - Pattern coherence: 0.055467
+2025-02-05 14:06:28 - - Participating tokens: 3
+2025-02-05 14:06:28 - - Mode strength: 3
+2025-02-05 14:06:28 - 
+Resonance Pattern 115:
+2025-02-05 14:06:28 - - Energy scale: 0.306814
+2025-02-05 14:06:28 - - Pattern coherence: 0.198193
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 116:
+2025-02-05 14:06:28 - - Energy scale: 0.307305
+2025-02-05 14:06:28 - - Pattern coherence: 0.104582
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 117:
+2025-02-05 14:06:28 - - Energy scale: 0.308123
+2025-02-05 14:06:28 - - Pattern coherence: 0.107357
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 118:
+2025-02-05 14:06:28 - - Energy scale: 0.309730
+2025-02-05 14:06:28 - - Pattern coherence: 0.246256
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 119:
+2025-02-05 14:06:28 - - Energy scale: 0.310401
+2025-02-05 14:06:28 - - Pattern coherence: 0.144036
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 120:
+2025-02-05 14:06:28 - - Energy scale: 0.311056
+2025-02-05 14:06:28 - - Pattern coherence: 0.170966
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 121:
+2025-02-05 14:06:28 - - Energy scale: 0.312064
+2025-02-05 14:06:28 - - Pattern coherence: 0.103920
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 122:
+2025-02-05 14:06:28 - - Energy scale: 0.312668
+2025-02-05 14:06:28 - - Pattern coherence: 0.105906
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 123:
+2025-02-05 14:06:28 - - Energy scale: 0.313734
+2025-02-05 14:06:28 - - Pattern coherence: 0.062715
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 124:
+2025-02-05 14:06:28 - - Energy scale: 0.314274
+2025-02-05 14:06:28 - - Pattern coherence: 0.024527
+2025-02-05 14:06:28 - - Participating tokens: 3
+2025-02-05 14:06:28 - - Mode strength: 3
+2025-02-05 14:06:28 - 
+Resonance Pattern 125:
+2025-02-05 14:06:28 - - Energy scale: 0.315846
+2025-02-05 14:06:28 - - Pattern coherence: 0.132834
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 126:
+2025-02-05 14:06:28 - - Energy scale: 0.316455
+2025-02-05 14:06:28 - - Pattern coherence: 0.069659
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 127:
+2025-02-05 14:06:28 - - Energy scale: 0.319185
+2025-02-05 14:06:28 - - Pattern coherence: 0.038715
+2025-02-05 14:06:28 - - Participating tokens: 5
+2025-02-05 14:06:28 - - Mode strength: 5
+2025-02-05 14:06:28 - 
+Resonance Pattern 128:
+2025-02-05 14:06:28 - - Energy scale: 0.321023
+2025-02-05 14:06:28 - - Pattern coherence: 0.170966
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 129:
+2025-02-05 14:06:28 - - Energy scale: 0.321613
+2025-02-05 14:06:28 - - Pattern coherence: 0.124685
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 130:
+2025-02-05 14:06:28 - - Energy scale: 0.322988
+2025-02-05 14:06:28 - - Pattern coherence: 0.182999
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 131:
+2025-02-05 14:06:28 - - Energy scale: 0.326186
+2025-02-05 14:06:28 - - Pattern coherence: 0.135842
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 132:
+2025-02-05 14:06:28 - - Energy scale: 0.327360
+2025-02-05 14:06:28 - - Pattern coherence: 0.129969
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 133:
+2025-02-05 14:06:28 - - Energy scale: 0.329899
+2025-02-05 14:06:28 - - Pattern coherence: 0.144039
+2025-02-05 14:06:28 - - Participating tokens: 3
+2025-02-05 14:06:28 - - Mode strength: 3
+2025-02-05 14:06:28 - 
+Resonance Pattern 134:
+2025-02-05 14:06:28 - - Energy scale: 0.330838
+2025-02-05 14:06:28 - - Pattern coherence: 0.094836
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 135:
+2025-02-05 14:06:28 - - Energy scale: 0.331487
+2025-02-05 14:06:28 - - Pattern coherence: 0.070942
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 136:
+2025-02-05 14:06:28 - - Energy scale: 0.334195
+2025-02-05 14:06:28 - - Pattern coherence: 0.021028
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 137:
+2025-02-05 14:06:28 - - Energy scale: 0.335279
+2025-02-05 14:06:28 - - Pattern coherence: 0.094808
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 138:
+2025-02-05 14:06:28 - - Energy scale: 0.338906
+2025-02-05 14:06:28 - - Pattern coherence: 0.095818
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 139:
+2025-02-05 14:06:28 - - Energy scale: 0.340724
+2025-02-05 14:06:28 - - Pattern coherence: 0.114407
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 140:
+2025-02-05 14:06:28 - - Energy scale: 0.342786
+2025-02-05 14:06:28 - - Pattern coherence: 0.149983
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 141:
+2025-02-05 14:06:28 - - Energy scale: 0.343767
+2025-02-05 14:06:28 - - Pattern coherence: 0.171370
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 142:
+2025-02-05 14:06:28 - - Energy scale: 0.344541
+2025-02-05 14:06:28 - - Pattern coherence: 0.186837
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 143:
+2025-02-05 14:06:28 - - Energy scale: 0.345550
+2025-02-05 14:06:28 - - Pattern coherence: 0.081689
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 144:
+2025-02-05 14:06:28 - - Energy scale: 0.347090
+2025-02-05 14:06:28 - - Pattern coherence: 0.100476
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 145:
+2025-02-05 14:06:28 - - Energy scale: 0.349266
+2025-02-05 14:06:28 - - Pattern coherence: 0.138731
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 146:
+2025-02-05 14:06:28 - - Energy scale: 0.350768
+2025-02-05 14:06:28 - - Pattern coherence: 0.142505
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 147:
+2025-02-05 14:06:28 - - Energy scale: 0.353254
+2025-02-05 14:06:28 - - Pattern coherence: 0.027925
+2025-02-05 14:06:28 - - Participating tokens: 3
+2025-02-05 14:06:28 - - Mode strength: 3
+2025-02-05 14:06:28 - 
+Resonance Pattern 148:
+2025-02-05 14:06:28 - - Energy scale: 0.354627
+2025-02-05 14:06:28 - - Pattern coherence: 0.015322
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 149:
+2025-02-05 14:06:28 - - Energy scale: 0.356129
+2025-02-05 14:06:28 - - Pattern coherence: 0.217197
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 150:
+2025-02-05 14:06:28 - - Energy scale: 0.356735
+2025-02-05 14:06:28 - - Pattern coherence: 0.229175
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 151:
+2025-02-05 14:06:28 - - Energy scale: 0.357864
+2025-02-05 14:06:28 - - Pattern coherence: 0.229175
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 152:
+2025-02-05 14:06:28 - - Energy scale: 0.360246
+2025-02-05 14:06:28 - - Pattern coherence: 0.156646
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 153:
+2025-02-05 14:06:28 - - Energy scale: 0.361345
+2025-02-05 14:06:28 - - Pattern coherence: 0.137391
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 154:
+2025-02-05 14:06:28 - - Energy scale: 0.361874
+2025-02-05 14:06:28 - - Pattern coherence: 0.130930
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 155:
+2025-02-05 14:06:28 - - Energy scale: 0.363032
+2025-02-05 14:06:28 - - Pattern coherence: 0.115176
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 156:
+2025-02-05 14:06:28 - - Energy scale: 0.363689
+2025-02-05 14:06:28 - - Pattern coherence: 0.162136
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 157:
+2025-02-05 14:06:28 - - Energy scale: 0.364779
+2025-02-05 14:06:28 - - Pattern coherence: 0.251622
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 158:
+2025-02-05 14:06:28 - - Energy scale: 0.366940
+2025-02-05 14:06:28 - - Pattern coherence: 0.079699
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 159:
+2025-02-05 14:06:28 - - Energy scale: 0.370176
+2025-02-05 14:06:28 - - Pattern coherence: 0.171370
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 160:
+2025-02-05 14:06:28 - - Energy scale: 0.373857
+2025-02-05 14:06:28 - - Pattern coherence: 0.176724
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 161:
+2025-02-05 14:06:28 - - Energy scale: 0.375698
+2025-02-05 14:06:28 - - Pattern coherence: 0.109282
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 162:
+2025-02-05 14:06:28 - - Energy scale: 0.377794
+2025-02-05 14:06:28 - - Pattern coherence: 0.037497
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 163:
+2025-02-05 14:06:28 - - Energy scale: 0.378676
+2025-02-05 14:06:28 - - Pattern coherence: 0.217197
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 164:
+2025-02-05 14:06:28 - - Energy scale: 0.379685
+2025-02-05 14:06:28 - - Pattern coherence: 0.055588
+2025-02-05 14:06:28 - - Participating tokens: 3
+2025-02-05 14:06:28 - - Mode strength: 3
+2025-02-05 14:06:28 - 
+Resonance Pattern 165:
+2025-02-05 14:06:28 - - Energy scale: 0.383992
+2025-02-05 14:06:28 - - Pattern coherence: 0.213655
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 166:
+2025-02-05 14:06:28 - - Energy scale: 0.385374
+2025-02-05 14:06:28 - - Pattern coherence: 0.229175
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 167:
+2025-02-05 14:06:28 - - Energy scale: 0.386179
+2025-02-05 14:06:28 - - Pattern coherence: 0.114407
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 168:
+2025-02-05 14:06:28 - - Energy scale: 0.386751
+2025-02-05 14:06:28 - - Pattern coherence: 0.067762
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 169:
+2025-02-05 14:06:28 - - Energy scale: 0.387668
+2025-02-05 14:06:28 - - Pattern coherence: 0.162752
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 170:
+2025-02-05 14:06:28 - - Energy scale: 0.390583
+2025-02-05 14:06:28 - - Pattern coherence: 0.096132
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 171:
+2025-02-05 14:06:28 - - Energy scale: 0.391543
+2025-02-05 14:06:28 - - Pattern coherence: 0.193356
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 172:
+2025-02-05 14:06:28 - - Energy scale: 0.392615
+2025-02-05 14:06:28 - - Pattern coherence: 0.082480
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 173:
+2025-02-05 14:06:28 - - Energy scale: 0.396113
+2025-02-05 14:06:28 - - Pattern coherence: 0.201556
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 174:
+2025-02-05 14:06:28 - - Energy scale: 0.398488
+2025-02-05 14:06:28 - - Pattern coherence: 0.130971
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 175:
+2025-02-05 14:06:28 - - Energy scale: 0.400280
+2025-02-05 14:06:28 - - Pattern coherence: 0.166094
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 176:
+2025-02-05 14:06:28 - - Energy scale: 0.401180
+2025-02-05 14:06:28 - - Pattern coherence: 0.100582
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 177:
+2025-02-05 14:06:28 - - Energy scale: 0.402146
+2025-02-05 14:06:28 - - Pattern coherence: 0.191903
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 178:
+2025-02-05 14:06:28 - - Energy scale: 0.402827
+2025-02-05 14:06:28 - - Pattern coherence: 0.098873
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 179:
+2025-02-05 14:06:28 - - Energy scale: 0.403333
+2025-02-05 14:06:28 - - Pattern coherence: 0.140018
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 180:
+2025-02-05 14:06:28 - - Energy scale: 0.404298
+2025-02-05 14:06:28 - - Pattern coherence: 0.121857
+2025-02-05 14:06:28 - - Participating tokens: 3
+2025-02-05 14:06:28 - - Mode strength: 3
+2025-02-05 14:06:28 - 
+Resonance Pattern 181:
+2025-02-05 14:06:28 - - Energy scale: 0.406936
+2025-02-05 14:06:28 - - Pattern coherence: 0.094836
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 182:
+2025-02-05 14:06:28 - - Energy scale: 0.407641
+2025-02-05 14:06:28 - - Pattern coherence: 0.115176
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 183:
+2025-02-05 14:06:28 - - Energy scale: 0.408850
+2025-02-05 14:06:28 - - Pattern coherence: 0.051828
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 184:
+2025-02-05 14:06:28 - - Energy scale: 0.409699
+2025-02-05 14:06:28 - - Pattern coherence: 0.161703
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 185:
+2025-02-05 14:06:28 - - Energy scale: 0.413802
+2025-02-05 14:06:28 - - Pattern coherence: 0.166113
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 186:
+2025-02-05 14:06:28 - - Energy scale: 0.414775
+2025-02-05 14:06:28 - - Pattern coherence: 0.163410
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 187:
+2025-02-05 14:06:28 - - Energy scale: 0.415327
+2025-02-05 14:06:28 - - Pattern coherence: 0.076727
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 188:
+2025-02-05 14:06:28 - - Energy scale: 0.418703
+2025-02-05 14:06:28 - - Pattern coherence: 0.061081
+2025-02-05 14:06:28 - - Participating tokens: 3
+2025-02-05 14:06:28 - - Mode strength: 3
+2025-02-05 14:06:28 - 
+Resonance Pattern 189:
+2025-02-05 14:06:28 - - Energy scale: 0.423198
+2025-02-05 14:06:28 - - Pattern coherence: 0.098873
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 190:
+2025-02-05 14:06:28 - - Energy scale: 0.423997
+2025-02-05 14:06:28 - - Pattern coherence: 0.288942
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 191:
+2025-02-05 14:06:28 - - Energy scale: 0.424604
+2025-02-05 14:06:28 - - Pattern coherence: 0.072345
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 192:
+2025-02-05 14:06:28 - - Energy scale: 0.425639
+2025-02-05 14:06:28 - - Pattern coherence: 0.098873
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 193:
+2025-02-05 14:06:28 - - Energy scale: 0.427104
+2025-02-05 14:06:28 - - Pattern coherence: 0.005002
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 194:
+2025-02-05 14:06:28 - - Energy scale: 0.428369
+2025-02-05 14:06:28 - - Pattern coherence: 0.163602
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 195:
+2025-02-05 14:06:28 - - Energy scale: 0.428928
+2025-02-05 14:06:28 - - Pattern coherence: 0.117786
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 196:
+2025-02-05 14:06:28 - - Energy scale: 0.429643
+2025-02-05 14:06:28 - - Pattern coherence: 0.171343
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 197:
+2025-02-05 14:06:28 - - Energy scale: 0.430546
+2025-02-05 14:06:28 - - Pattern coherence: 0.068075
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 198:
+2025-02-05 14:06:28 - - Energy scale: 0.433037
+2025-02-05 14:06:28 - - Pattern coherence: 0.138731
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 199:
+2025-02-05 14:06:28 - - Energy scale: 0.434517
+2025-02-05 14:06:28 - - Pattern coherence: 0.132834
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 200:
+2025-02-05 14:06:28 - - Energy scale: 0.436565
+2025-02-05 14:06:28 - - Pattern coherence: 0.080843
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 201:
+2025-02-05 14:06:28 - - Energy scale: 0.439034
+2025-02-05 14:06:28 - - Pattern coherence: 0.096132
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 202:
+2025-02-05 14:06:28 - - Energy scale: 0.440171
+2025-02-05 14:06:28 - - Pattern coherence: 0.124506
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 203:
+2025-02-05 14:06:28 - - Energy scale: 0.443137
+2025-02-05 14:06:28 - - Pattern coherence: 0.088997
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 204:
+2025-02-05 14:06:28 - - Energy scale: 0.446987
+2025-02-05 14:06:28 - - Pattern coherence: 0.191903
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 205:
+2025-02-05 14:06:28 - - Energy scale: 0.448650
+2025-02-05 14:06:28 - - Pattern coherence: 0.144243
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 206:
+2025-02-05 14:06:28 - - Energy scale: 0.449856
+2025-02-05 14:06:28 - - Pattern coherence: 0.072789
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 207:
+2025-02-05 14:06:28 - - Energy scale: 0.450487
+2025-02-05 14:06:28 - - Pattern coherence: 0.124446
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 208:
+2025-02-05 14:06:28 - - Energy scale: 0.454499
+2025-02-05 14:06:28 - - Pattern coherence: 0.258579
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 209:
+2025-02-05 14:06:28 - - Energy scale: 0.455183
+2025-02-05 14:06:28 - - Pattern coherence: 0.162752
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 210:
+2025-02-05 14:06:28 - - Energy scale: 0.456795
+2025-02-05 14:06:28 - - Pattern coherence: 0.089018
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 211:
+2025-02-05 14:06:28 - - Energy scale: 0.459789
+2025-02-05 14:06:28 - - Pattern coherence: 0.051388
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 212:
+2025-02-05 14:06:28 - - Energy scale: 0.462815
+2025-02-05 14:06:28 - - Pattern coherence: 0.041550
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 213:
+2025-02-05 14:06:28 - - Energy scale: 0.463324
+2025-02-05 14:06:28 - - Pattern coherence: 0.144243
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 214:
+2025-02-05 14:06:28 - - Energy scale: 0.466557
+2025-02-05 14:06:28 - - Pattern coherence: 0.089018
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 215:
+2025-02-05 14:06:28 - - Energy scale: 0.469400
+2025-02-05 14:06:28 - - Pattern coherence: 0.171370
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 216:
+2025-02-05 14:06:28 - - Energy scale: 0.471728
+2025-02-05 14:06:28 - - Pattern coherence: 0.134749
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 217:
+2025-02-05 14:06:28 - - Energy scale: 0.473774
+2025-02-05 14:06:28 - - Pattern coherence: 0.028683
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 218:
+2025-02-05 14:06:28 - - Energy scale: 0.475766
+2025-02-05 14:06:28 - - Pattern coherence: 0.201179
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 219:
+2025-02-05 14:06:28 - - Energy scale: 0.479021
+2025-02-05 14:06:28 - - Pattern coherence: 0.002931
+2025-02-05 14:06:28 - - Participating tokens: 3
+2025-02-05 14:06:28 - - Mode strength: 3
+2025-02-05 14:06:28 - 
+Resonance Pattern 220:
+2025-02-05 14:06:28 - - Energy scale: 0.481403
+2025-02-05 14:06:28 - - Pattern coherence: 0.229175
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 221:
+2025-02-05 14:06:28 - - Energy scale: 0.484407
+2025-02-05 14:06:28 - - Pattern coherence: 0.170966
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 222:
+2025-02-05 14:06:28 - - Energy scale: 0.487451
+2025-02-05 14:06:28 - - Pattern coherence: 0.124506
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 223:
+2025-02-05 14:06:28 - - Energy scale: 0.488199
+2025-02-05 14:06:28 - - Pattern coherence: 0.130930
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 224:
+2025-02-05 14:06:28 - - Energy scale: 0.493015
+2025-02-05 14:06:28 - - Pattern coherence: 0.077889
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 225:
+2025-02-05 14:06:28 - - Energy scale: 0.498203
+2025-02-05 14:06:28 - - Pattern coherence: 0.169912
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 226:
+2025-02-05 14:06:28 - - Energy scale: 0.502009
+2025-02-05 14:06:28 - - Pattern coherence: 0.049503
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 227:
+2025-02-05 14:06:28 - - Energy scale: 0.504840
+2025-02-05 14:06:28 - - Pattern coherence: 0.169912
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 228:
+2025-02-05 14:06:28 - - Energy scale: 0.506824
+2025-02-05 14:06:28 - - Pattern coherence: 0.115184
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 229:
+2025-02-05 14:06:28 - - Energy scale: 0.514775
+2025-02-05 14:06:28 - - Pattern coherence: 0.067606
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 230:
+2025-02-05 14:06:28 - - Energy scale: 0.517784
+2025-02-05 14:06:28 - - Pattern coherence: 0.193356
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 231:
+2025-02-05 14:06:28 - - Energy scale: 0.518971
+2025-02-05 14:06:28 - - Pattern coherence: 0.214121
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 232:
+2025-02-05 14:06:28 - - Energy scale: 0.523650
+2025-02-05 14:06:28 - - Pattern coherence: 0.229175
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 233:
+2025-02-05 14:06:28 - - Energy scale: 0.525039
+2025-02-05 14:06:28 - - Pattern coherence: 0.135659
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 234:
+2025-02-05 14:06:28 - - Energy scale: 0.525579
+2025-02-05 14:06:28 - - Pattern coherence: 0.233527
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 235:
+2025-02-05 14:06:28 - - Energy scale: 0.527240
+2025-02-05 14:06:28 - - Pattern coherence: 0.021028
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 236:
+2025-02-05 14:06:28 - - Energy scale: 0.534190
+2025-02-05 14:06:28 - - Pattern coherence: 0.245500
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 237:
+2025-02-05 14:06:28 - - Energy scale: 0.535169
+2025-02-05 14:06:28 - - Pattern coherence: 0.057671
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 238:
+2025-02-05 14:06:28 - - Energy scale: 0.539290
+2025-02-05 14:06:28 - - Pattern coherence: 0.191180
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 239:
+2025-02-05 14:06:28 - - Energy scale: 0.541921
+2025-02-05 14:06:28 - - Pattern coherence: 0.169174
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 240:
+2025-02-05 14:06:28 - - Energy scale: 0.543413
+2025-02-05 14:06:28 - - Pattern coherence: 0.137391
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 241:
+2025-02-05 14:06:28 - - Energy scale: 0.543895
+2025-02-05 14:06:28 - - Pattern coherence: 0.110027
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 242:
+2025-02-05 14:06:28 - - Energy scale: 0.544652
+2025-02-05 14:06:28 - - Pattern coherence: 0.322535
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 243:
+2025-02-05 14:06:28 - - Energy scale: 0.547569
+2025-02-05 14:06:28 - - Pattern coherence: 0.069057
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 244:
+2025-02-05 14:06:28 - - Energy scale: 0.548550
+2025-02-05 14:06:28 - - Pattern coherence: 0.099966
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 245:
+2025-02-05 14:06:28 - - Energy scale: 0.549861
+2025-02-05 14:06:28 - - Pattern coherence: 0.132834
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 246:
+2025-02-05 14:06:28 - - Energy scale: 0.550927
+2025-02-05 14:06:28 - - Pattern coherence: 0.162752
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 247:
+2025-02-05 14:06:28 - - Energy scale: 0.555792
+2025-02-05 14:06:28 - - Pattern coherence: 0.184336
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 248:
+2025-02-05 14:06:28 - - Energy scale: 0.557642
+2025-02-05 14:06:28 - - Pattern coherence: 0.090028
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 249:
+2025-02-05 14:06:28 - - Energy scale: 0.559714
+2025-02-05 14:06:28 - - Pattern coherence: 0.166113
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 250:
+2025-02-05 14:06:28 - - Energy scale: 0.560632
+2025-02-05 14:06:28 - - Pattern coherence: 0.221605
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 251:
+2025-02-05 14:06:28 - - Energy scale: 0.561909
+2025-02-05 14:06:28 - - Pattern coherence: 0.285208
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 252:
+2025-02-05 14:06:28 - - Energy scale: 0.564199
+2025-02-05 14:06:28 - - Pattern coherence: 0.103798
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 253:
+2025-02-05 14:06:28 - - Energy scale: 0.568575
+2025-02-05 14:06:28 - - Pattern coherence: 0.061544
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 254:
+2025-02-05 14:06:28 - - Energy scale: 0.574917
+2025-02-05 14:06:28 - - Pattern coherence: 0.361454
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 255:
+2025-02-05 14:06:28 - - Energy scale: 0.581390
+2025-02-05 14:06:28 - - Pattern coherence: 0.114889
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 256:
+2025-02-05 14:06:28 - - Energy scale: 0.585227
+2025-02-05 14:06:28 - - Pattern coherence: 0.195046
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 257:
+2025-02-05 14:06:28 - - Energy scale: 0.586841
+2025-02-05 14:06:28 - - Pattern coherence: 0.107925
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 258:
+2025-02-05 14:06:28 - - Energy scale: 0.596803
+2025-02-05 14:06:28 - - Pattern coherence: 0.100103
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 259:
+2025-02-05 14:06:28 - - Energy scale: 0.597837
+2025-02-05 14:06:28 - - Pattern coherence: 0.257019
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 260:
+2025-02-05 14:06:28 - - Energy scale: 0.598429
+2025-02-05 14:06:28 - - Pattern coherence: 0.068075
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 261:
+2025-02-05 14:06:28 - - Energy scale: 0.601419
+2025-02-05 14:06:28 - - Pattern coherence: 0.005002
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 262:
+2025-02-05 14:06:28 - - Energy scale: 0.606620
+2025-02-05 14:06:28 - - Pattern coherence: 0.135659
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 263:
+2025-02-05 14:06:28 - - Energy scale: 0.609571
+2025-02-05 14:06:28 - - Pattern coherence: 0.114407
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 264:
+2025-02-05 14:06:28 - - Energy scale: 0.617133
+2025-02-05 14:06:28 - - Pattern coherence: 0.117786
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 265:
+2025-02-05 14:06:28 - - Energy scale: 0.617675
+2025-02-05 14:06:28 - - Pattern coherence: 0.251622
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 266:
+2025-02-05 14:06:28 - - Energy scale: 0.621051
+2025-02-05 14:06:28 - - Pattern coherence: 0.184336
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 267:
+2025-02-05 14:06:28 - - Energy scale: 0.622543
+2025-02-05 14:06:28 - - Pattern coherence: 0.071019
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 268:
+2025-02-05 14:06:28 - - Energy scale: 0.627495
+2025-02-05 14:06:28 - - Pattern coherence: 0.136154
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 269:
+2025-02-05 14:06:28 - - Energy scale: 0.641369
+2025-02-05 14:06:28 - - Pattern coherence: 0.081340
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 270:
+2025-02-05 14:06:28 - - Energy scale: 0.652581
+2025-02-05 14:06:28 - - Pattern coherence: 0.094808
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 271:
+2025-02-05 14:06:28 - - Energy scale: 0.669325
+2025-02-05 14:06:28 - - Pattern coherence: 0.285208
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 272:
+2025-02-05 14:06:28 - - Energy scale: 0.670877
+2025-02-05 14:06:28 - - Pattern coherence: 0.233527
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 273:
+2025-02-05 14:06:28 - - Energy scale: 0.673240
+2025-02-05 14:06:28 - - Pattern coherence: 0.181348
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 274:
+2025-02-05 14:06:28 - - Energy scale: 0.678695
+2025-02-05 14:06:28 - - Pattern coherence: 0.169912
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 275:
+2025-02-05 14:06:28 - - Energy scale: 0.688625
+2025-02-05 14:06:28 - - Pattern coherence: 0.098873
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 276:
+2025-02-05 14:06:28 - - Energy scale: 0.695647
+2025-02-05 14:06:28 - - Pattern coherence: 0.068075
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 277:
+2025-02-05 14:06:28 - - Energy scale: 0.699406
+2025-02-05 14:06:28 - - Pattern coherence: 0.123668
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 278:
+2025-02-05 14:06:28 - - Energy scale: 0.700310
+2025-02-05 14:06:28 - - Pattern coherence: 0.257019
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 279:
+2025-02-05 14:06:28 - - Energy scale: 0.726050
+2025-02-05 14:06:28 - - Pattern coherence: 0.115176
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 280:
+2025-02-05 14:06:28 - - Energy scale: 0.731481
+2025-02-05 14:06:28 - - Pattern coherence: 0.224348
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 281:
+2025-02-05 14:06:28 - - Energy scale: 0.735769
+2025-02-05 14:06:28 - - Pattern coherence: 0.144243
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 282:
+2025-02-05 14:06:28 - - Energy scale: 0.756560
+2025-02-05 14:06:28 - - Pattern coherence: 0.114160
+2025-02-05 14:06:28 - - Participating tokens: 2
+2025-02-05 14:06:28 - - Mode strength: 2
+2025-02-05 14:06:28 - 
+Resonance Pattern 283:
+2025-02-05 14:06:28 - - Energy scale: 0.777123
+2025-02-05 14:06:28 - - Pattern coherence: 0.100476
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 284:
+2025-02-05 14:06:28 - - Energy scale: 0.778520
+2025-02-05 14:06:28 - - Pattern coherence: 0.245500
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 285:
+2025-02-05 14:06:28 - - Energy scale: 0.792014
+2025-02-05 14:06:28 - - Pattern coherence: 0.124506
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 286:
+2025-02-05 14:06:28 - - Energy scale: 0.799965
+2025-02-05 14:06:28 - - Pattern coherence: 0.184336
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 287:
+2025-02-05 14:06:28 - - Energy scale: 0.801874
+2025-02-05 14:06:28 - - Pattern coherence: 0.134940
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 288:
+2025-02-05 14:06:28 - - Energy scale: 0.830741
+2025-02-05 14:06:28 - - Pattern coherence: 0.088358
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 289:
+2025-02-05 14:06:28 - - Energy scale: 0.839306
+2025-02-05 14:06:28 - - Pattern coherence: 0.288942
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 290:
+2025-02-05 14:06:28 - - Energy scale: 0.864167
+2025-02-05 14:06:28 - - Pattern coherence: 0.067606
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 291:
+2025-02-05 14:06:28 - - Energy scale: 0.906820
+2025-02-05 14:06:28 - - Pattern coherence: 0.193356
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 292:
+2025-02-05 14:06:28 - - Energy scale: 1.128621
+2025-02-05 14:06:28 - - Pattern coherence: 0.184336
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 293:
+2025-02-05 14:06:28 - - Energy scale: 1.241646
+2025-02-05 14:06:28 - - Pattern coherence: 0.285405
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 294:
+2025-02-05 14:06:28 - - Energy scale: 1.573274
+2025-02-05 14:06:28 - - Pattern coherence: 0.088358
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+Resonance Pattern 295:
+2025-02-05 14:06:28 - - Energy scale: 1.851107
+2025-02-05 14:06:28 - - Pattern coherence: 0.257019
+2025-02-05 14:06:28 - - Participating tokens: 1
+2025-02-05 14:06:28 - - Mode strength: 1
+2025-02-05 14:06:28 - 
+=== Natural Scale Organization ===
+2025-02-05 14:06:28 - Energy spectrum properties:
+2025-02-05 14:06:28 - - Energy levels: [np.float64(1.6589783914747013e-05), np.float64(3.468127710384096e-05), np.float64(6.442213802925216e-05), np.float64(0.0001025483740003369), np.float64(0.0001285960704043576)]
+2025-02-05 14:06:28 - - Significant gaps: 295
+2025-02-05 14:06:28 - - Mean energy gap: 0.000451
+2025-02-05 14:06:28 - 
+================================================================================
+2025-02-05 14:06:28 - COMPLETED VACUUM STRUCTURE ANALYSIS
+2025-02-05 14:06:28 - ================================================================================
