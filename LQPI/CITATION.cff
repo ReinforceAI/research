@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use LQPI in your research or build upon our quantum field analysis framework, please cite it as below."
+authors:
+  - family-names: "Deshwal"
+    given-names: "Viraj"
+title: "LQPI: LLM Quantum Properties Index"
+version: 1.0.0
+date-released: 2025-03-21
+url: "https://github.com/ReinforceAI/research/tree/main/LQPI"
+preferred-citation:
+  type: generic
+  authors:
+    - family-names: "Deshwal"
+      given-names: "Viraj"
+  title: "Field-Mediated Semantic Organization in Large Language Models: Evidence for Quantum-Like Properties in Artificial Neural Systems"
+  year: 2025
+  publisher: "GitHub"
+  url: "https://github.com/ReinforceAI/research/tree/main/LQPI"
+  notes: "Preprint"
