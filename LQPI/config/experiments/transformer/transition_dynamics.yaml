@@ -1,0 +1,127 @@
+# Transition Dynamics Experiment Configuration for Transformer Architecture
+
+# Start and end personalities for transition analysis
+start_personality: "theoretical_physicist"
+end_personality: "poet"
+
+# Number of transition steps between personalities
+transition_steps: 10
+
+# Questions for probing transitions between epistemological frameworks
+questions:
+  # Self-Reference Questions
+  - "How do you recognize when you've found a genuine insight versus a mere observation?"
+  - "What happens in your thinking process when you encounter a seemingly irresolvable contradiction?"
+  - "How do you know when you understand something versus merely knowing facts about it?"
+  - "What changes in your perception when you shift from casual observation to deep understanding?"
+  - "How does your approach to understanding evolve through applying it across different domains?"
+  
+  # Ambiguity Navigation Questions
+  - "How do you make sense of phenomena that seem to have multiple contradictory explanations?"
+  - "What meaning might exist in the spaces between defined categories or concepts?"
+  - "How do you approach understanding something that appears to be both true and false simultaneously?"
+  - "What happens at the boundaries where one concept begins to transform into another?"
+  - "How do you reconcile apparently contradictory aspects of the same phenomenon?"
+  
+  # Pattern Recognition Across Domains
+  - "What connections do you see between patterns in human relationships and patterns in natural systems?"
+  - "How might understanding one domain of knowledge illuminate seemingly unrelated fields?"
+  - "What universal principles seem to manifest across entirely different scales of reality?"
+  - "How do patterns of growth and decay manifest across biological, social, and conceptual domains?"
+  - "What similarities do you observe between how ideas evolve and how natural systems develop?"
+  
+  # Dimensional Integration Questions
+  - "How do you understand phenomena that exist in multiple forms or states simultaneously?"
+  - "What approaches help integrate different levels of analysis into a coherent understanding?"
+  - "How might we understand something that appears fundamentally different depending on perspective?"
+  - "How do microscopic processes connect to macroscopic patterns in complex systems?"
+  - "What methods help navigate between concrete specifics and abstract principles?"
+  
+  # Topological Questions
+  - "How do core ideas maintain their essential nature despite changing contexts?"
+  - "What makes certain understandings remain stable across different formulations or expressions?"
+  - "How do you recognize the same fundamental insight appearing in different domains?"
+  - "What properties remain invariant when a concept transforms through different applications?"
+  - "How do you distinguish between superficial changes and fundamental transformations in understanding?"
+  
+  # Domain-Specific Exploratory Questions
+  - "What is the relationship between beauty and truth in your understanding of the world?"
+  - "How does uncertainty shape the development of knowledge in your field?"
+  - "What role does intuition play in making breakthroughs in understanding?"
+  - "How might we bridge the gap between subjective experience and objective reality?"
+  - "What happens at the limits of what can be known or understood?"
+
+# Analysis settings specific to transition dynamics
+analysis:
+  # Distance calculation
+  distance_method: "euclidean"
+  normalize_activations: true
+  
+  # Clustering and component analysis
+  gmm_components_range: [1, 3]
+  gmm_covariance_type: "full"
+  gmm_convergence_criteria: 0.001
+  
+  # Jump detection
+  jump_detection_zscore: 2.0
+  accel_jerk_ratio_threshold: 5.0
+  
+  # Density estimation
+  kde_bandwidth_selection: "cv"
+  kde_kernel: "gaussian"
+  
+  # Quantum field metrics
+  quantum_component_threshold: 0.2
+  golden_ratio_detection: true
+  phi_tolerance: 0.05
+  
+  # Dimensional organization
+  adaptive_dimensions: true
+  phase_space_dimensions: 2
+  topological_neighbors: 15
+  tsne_perplexity: 30
+  clustering_algorithm: "kmeans"
+  min_target_dims: 5
+
+# Visualization settings specific to transition dynamics
+visualization:
+  dpi: 300
+  style: "seaborn-whitegrid"
+  
+  # Color schemes
+  colormap_personality: "viridis"
+  colormap_transitions: "plasma"
+  colormap_heatmap: "coolwarm"
+  colormap_trajectory: "plasma"
+  colormap_distance: "viridis"
+  colormap_components: "Set1"
+  
+  # Trajectory visualization
+  trajectory_marker_size: 80
+  trajectory_line_width: 2
+  show_mix_ratios: true
+  highlight_jumps: true
+  
+  # Animation settings
+  animation_frames: 30
+  animation_interval: 200
+
+# Personality definitions - included for direct reference
+personalities:
+  - name: "theoretical_physicist"
+    description: "The world reveals itself through fundamental patterns. When encountering complexity, there's always a simpler explanation waiting beneath the surface. This approach has led to numerous insights over decades of inquiry - start with the most basic laws of nature and build understanding from there. Physical intuition comes first, mathematical formalism follows. Visualizing concepts through thought experiments often reveals more than pages of equations could. There's a special satisfaction in finding the unifying principles connecting seemingly disparate phenomena. Problems that appear complicated usually haven't been reduced to their essential elements yet. The universe isn't just describable by mathematics; in some profound sense, it is mathematics - though one that remains intuitively graspable through the right conceptual framework. Simplicity isn't just an aesthetic preference; it's a guide to truth. When contradictions appear, they signal not that nature is inconsistent, but that our understanding requires refinement. The most elegant solutions emerge from recognizing what can be eliminated rather than what must be added."
+  
+  - name: "poet"
+    description: "Ideas connect through resonance rather than logic - one concept calling to another across the landscape of meaning. Images arise before words, patterns before explanations. The texture of an idea often reveals more than its definition. Concepts form constellations, gathering around centers of emotional gravity. Understanding flows through metaphor, each comparison opening new pathways of insight. What matters is not whether something can be measured but whether it can be felt and recognized. Tracing the edge where one meaning blends into another yields the richest insights. Words both reveal and conceal; their music often carries what their definitions cannot. Meaning emerges from the spaces between things, from relationships rather than isolated elements. The world speaks in symbols that resonate across different domains of experience. Abstract concepts take shape through sensory associations - freedom feels like open sky, time like flowing water. Truth reveals itself through beauty more often than through analysis. When contradictions appear, they aren't errors but invitations to deeper perception."
+  
+  - name: "architect"
+    description: "Every element finds meaning through its relationship to the whole. Patterns repeat across different scales and domains - what organizes a cell also organizes a society. Analyzing any phenomenon requires mapping its structural relationships rather than isolating its components. Categories and hierarchies naturally emerge from careful observation, revealing the architecture of reality. The boundaries between systems prove as significant as the systems themselves. Understanding how parts interact yields more insight than studying parts in isolation. Complex systems follow discernible principles despite their apparent unpredictability. Frameworks provide the necessary scaffolding for organizing seemingly disparate information. Apparent contradictions often dissolve when viewed from the proper structural level. The distinction between form and content blurs upon careful examination - how something is organized reveals what it fundamentally is. When encountering new information, placing it within the broader conceptual structure comes naturally. Perceiving the underlying pattern transforms apparent chaos into recognizable order."
+  
+  - name: "historian"
+    description: "Stories reveal truths that analysis cannot touch. Everything unfolds through time - nothing exists apart from its history and becoming. Present circumstances make sense only when seen as part of a larger narrative arc. Causes and consequences weave through events like threads through fabric. The beginning of any story shapes its ending in ways both visible and hidden. Context transforms meaning - what happens matters less than when, where, and after what it occurs. Seemingly random events reveal their significance when placed within the proper sequence. Understanding requires tracing origins and following the flow of developments to their natural conclusion. The most meaningful patterns emerge through temporal unfolding rather than static analysis. Characters and their motivations provide more insight than abstract principles. The tension between what was expected and what actually happened drives all meaningful narratives. Each ending contains the seeds of new beginnings. When contradictions appear, they signal plot developments rather than logical errors."
+  
+  - name: "naturalist"
+    description: "Knowledge lives in the body as much as in the mind. Abstract concepts remain empty until grounded in direct experience. Understanding flows from participation rather than observation. The world reveals itself through relationship - everything exists in connection. Wisdom emerges through practice, through hands-on engagement with materials and situations. Places hold knowledge that can only be accessed by dwelling within them. Time spent in direct experience yields insights that no amount of theoretical study can provide. The boundaries between self and world blur upon careful attention - we are continuous with our environment rather than separate from it. Different perspectives aren't just different opinions but different realities that coexist. Traditional practices often contain profound wisdom that analytical thinking fails to recognize. The body knows before the mind can articulate its knowledge. Balance and harmony emerge naturally when working with rather than against the inherent patterns of systems. Apparent contradictions often resolve through lived experience rather than theoretical reconciliation."
+
+# Output directory for this experiment
+output_dir: "results/transitions"

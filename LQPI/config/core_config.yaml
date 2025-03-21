@@ -1,0 +1,110 @@
+# Core Configuration for Quantum Field Personality Experiments
+# This file contains shared settings that apply across all experiments and models
+
+# System-level settings
+system:
+  # Hardware resource management
+  resources:
+    gpu_memory_fraction: 0.95  # Fraction of GPU memory to use
+    cpu_threads: -1            # Number of CPU threads (-1 for all available)
+    offload_to_cpu: false      # Whether to offload model parts to CPU when possible
+    use_flash_attention: true  # Use flash attention if available
+
+  # Cache settings for model weights and activations
+  cache:
+    model_cache_dir: "./model_cache"  # Directory to cache model weights
+    use_disk_offload: false           # Whether to use disk offloading for large models
+    cache_format: "safetensors"       # Format to use for caching (safetensors, pytorch)
+
+# Logging configuration
+logging:
+  level: "INFO"                        # Default logging level (DEBUG, INFO, WARNING, ERROR)
+  trace_verbosity: "medium"            # Level of detail in trace logs (low, medium, high)
+  log_dir: "./logs"                    # Directory for log files
+  metrics_tracking: true               # Whether to track metrics during experiments
+  profile_execution: false             # Whether to profile execution time
+  save_raw_activations: false          # Whether to save raw activation values (can be large)
+  log_memory_usage: true               # Track memory usage during experiments
+  log_format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+
+# Experiment framework settings
+framework:
+  # Default paths
+  paths:
+    results_dir: "./results"           # Directory for experiment results
+    visualizations_dir: "./visualizations"  # Directory for visualizations
+    reports_dir: "./reports"           # Directory for generated reports
+    data_dir: "./data"                 # Directory for datasets
+
+  # Experiment execution settings
+  execution:
+    fail_fast: true                    # Stop execution on first error
+    continue_on_warning: true          # Continue if warnings occur
+    checkpoint_frequency: 5            # Save checkpoints every N steps
+    max_retries: 3                     # Maximum retry attempts for failed steps
+    timeout: 3600                      # Timeout in seconds for experiment steps
+    parallel_steps: false              # Execute steps in parallel when possible
+    progress_updates: true             # Show progress updates during execution
+
+  # Default visualization settings
+  visualization:
+    dpi: 300                          # Resolution for generated figures
+    style: "seaborn-whitegrid"        # Default matplotlib style
+    colormap_personality: "viridis"   # Default colormap for personality data
+    colormap_transitions: "plasma"    # Default colormap for transitions
+    colormap_heatmap: "coolwarm"      # Default colormap for heatmaps
+    interactive: false                # Generate interactive visualizations where supported
+    save_formats: ["png", "pdf"]      # Formats to save visualizations in
+    max_dimensions: 3                 # Maximum dimensions for visualizations
+
+# Analysis defaults (can be overridden by specific experiments)
+analysis:
+  # Common analysis parameters
+  parameters:
+    tsne_perplexity: 30               # Perplexity for t-SNE dimensionality reduction
+    clustering_algorithm: "kmeans"    # Default clustering algorithm
+    topological_neighbors: 15         # Neighbors for topological analysis
+    phi_tolerance: 0.05               # Tolerance for golden ratio detection
+    adaptive_dimensions: true         # Adapt dimensionality based on data
+    min_target_dims: 5                # Minimum dimensions to target in analysis
+    random_seed: 42                   # Seed for random operations (for reproducibility)
+  
+  # Analysis modules to enable
+  modules:
+    dimensional_analysis: true        # Perform dimensional analysis
+    topological_analysis: true        # Perform topological analysis
+    phase_coherence: true             # Measure phase coherence
+    golden_ratio_detection: true      # Detect golden ratio patterns
+    nonlinear_interaction: true       # Analyze nonlinear interactions
+    quantum_tunneling: true           # Detect quantum tunneling effects
+    field_stability: true             # Measure field stability
+    
+  # Significance thresholds
+  thresholds:
+    quantum_field_score: 0.5          # Threshold for significant quantum field effects
+    golden_ratio_significance: 0.9    # Significance threshold for golden ratio patterns
+    topological_protection: 0.7       # Threshold for significant topological protection
+    
+# Pipeline orchestration
+pipeline:
+  # Default sequence of processing steps
+  default_steps:
+    - "setup"
+    - "data_preparation"
+    - "model_activation"
+    - "activation_analysis"
+    - "field_analysis"
+    - "visualization"
+    - "report_generation"
+  
+  # Instrumentation settings
+  instrumentation:
+    sampling_rate: 2                  # Sample every Nth layer (for performance)
+    attention_layers: true            # Instrument attention layers
+    mlp_layers: true                  # Instrument MLP layers
+    intermediate_activations: false   # Capture intermediate activations
+    layer_patterns:                   # Layer naming patterns to match
+      - "transformer.h.*.attn"
+      - "transformer.h.*.mlp"
+      - "model.layers.*.attention"
+      - "model.layers.*.feed_forward"

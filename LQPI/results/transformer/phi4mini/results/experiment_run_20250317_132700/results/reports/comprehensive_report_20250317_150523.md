@@ -1,0 +1,114 @@
+# Comprehensive Report: dimensional_analysis_phi4mini_20250317_132700
+
+Date: 2025-03-17 15:05:23
+
+## Experiment: dimensional_analysis
+
+# DimensionalAnalysisExperiment Summary
+
+Date: 2025-03-17 15:05:23
+
+## Description
+
+This experiment examines how personality information organizes across dimensional hierarchies. By analyzing eigenvalue distributions and compression ratios, we can identify natural dimensional organization of personality information, looking for golden ratio relationships and other mathematical patterns that would indicate quantum field-like organization.
+
+## Key Metrics
+
+- **global_ratio_mean**: 1.1439495086669922
+- **global_ratio_median**: 1.1041133403778076
+- **global_ratio_std**: 0.12889884412288666
+- **global_ratio_peaks**: [1.0738873481750488]
+- **global_ratio_golden_peaks**: 0
+- **ratio_gmm_components**: 3
+- **ratio_gmm_means**: [1.1816292378430997, 1.0718164797694436, 1.4446617405396531]
+- **ratio_gmm_weights**: [0.2995062933364779, 0.5952399027522008, 0.10525380391132129]
+- **natural_compression_ratio**: 0.7836854224724629
+- **natural_compression_gr_name**: φ-1
+- **natural_compression_gr_value**: 0.6180339887498949
+- **natural_compression_gr_deviation**: 0.26802965004826546
+- **mean_golden_ratio_patterns**: 0.25
+- **max_golden_ratio_patterns**: 2
+- **quantum_organization_score**: 0.2
+- **quantum_organization_indicators**: [0, 0, 0, 1, 0, 0]
+
+## Key Findings
+
+- Discovered 3 natural clusters in the eigenvalue ratio distribution with centers at 1.182 (weight: 0.30), 1.072 (weight: 0.60), 1.445 (weight: 0.11). This multi-modal distribution suggests the presence of distinct organizing principles in dimensional compression rather than random statistical patterns.
+- Moderate golden ratio organization: Found an average of 0.2 golden ratio patterns per layer, with up to 2 patterns in a single layer. This provides evidence of natural mathematical organization of personality dimensions.
+- OVERALL ASSESSMENT (Score: 0.20): Personality activations show limited evidence of quantum field-like dimensional organization, with dimensional properties more consistent with statistical patterns than natural mathematical organization.
+
+## Visualizations
+
+![dim_hierarchy_theoretical_physicist](../visualizations/dimensional_hierarchy_001.png)
+
+![eigenvalues_theoretical_physicist](../visualizations/eigenvalue_distribution_002.png)
+
+![dim_hierarchy_poet](../visualizations/dimensional_hierarchy_003.png)
+
+![eigenvalues_poet](../visualizations/eigenvalue_distribution_004.png)
+
+![dim_hierarchy_architect](../visualizations/dimensional_hierarchy_005.png)
+
+![eigenvalues_architect](../visualizations/eigenvalue_distribution_006.png)
+
+![dim_hierarchy_historian](../visualizations/dimensional_hierarchy_007.png)
+
+![eigenvalues_historian](../visualizations/eigenvalue_distribution_008.png)
+
+![dim_hierarchy_naturalist](../visualizations/dimensional_hierarchy_009.png)
+
+![eigenvalues_naturalist](../visualizations/eigenvalue_distribution_010.png)
+
+![global_eigenvalue_ratios](global_eigenvalue_ratios.png)
+
+### Key Metrics
+
+- **global_ratio_mean**: 1.1439495086669922
+- **global_ratio_median**: 1.1041133403778076
+- **global_ratio_std**: 0.12889884412288666
+- **global_ratio_peaks**: [1.0738873481750488]
+- **global_ratio_golden_peaks**: 0
+- **ratio_gmm_components**: 3
+- **ratio_gmm_means**: [1.1816292378430997, 1.0718164797694436, 1.4446617405396531]
+- **ratio_gmm_weights**: [0.2995062933364779, 0.5952399027522008, 0.10525380391132129]
+- **natural_compression_ratio**: 0.7836854224724629
+- **natural_compression_gr_name**: φ-1
+- **natural_compression_gr_value**: 0.6180339887498949
+- **natural_compression_gr_deviation**: 0.26802965004826546
+- **mean_golden_ratio_patterns**: 0.25
+- **max_golden_ratio_patterns**: 2
+- **quantum_organization_score**: 0.2
+- **quantum_organization_indicators**: [0, 0, 0, 1, 0, 0]
+
+### Visualizations
+
+![dim_hierarchy_theoretical_physicist](results/experiment_run_20250317_132700/visualizations/dimensional_hierarchy_001.png)
+
+![eigenvalues_theoretical_physicist](results/experiment_run_20250317_132700/visualizations/eigenvalue_distribution_002.png)
+
+![dim_hierarchy_poet](results/experiment_run_20250317_132700/visualizations/dimensional_hierarchy_003.png)
+
+![eigenvalues_poet](results/experiment_run_20250317_132700/visualizations/eigenvalue_distribution_004.png)
+
+![dim_hierarchy_architect](results/experiment_run_20250317_132700/visualizations/dimensional_hierarchy_005.png)
+
+![eigenvalues_architect](results/experiment_run_20250317_132700/visualizations/eigenvalue_distribution_006.png)
+
+![dim_hierarchy_historian](results/experiment_run_20250317_132700/visualizations/dimensional_hierarchy_007.png)
+
+![eigenvalues_historian](results/experiment_run_20250317_132700/visualizations/eigenvalue_distribution_008.png)
+
+![dim_hierarchy_naturalist](results/experiment_run_20250317_132700/visualizations/dimensional_hierarchy_009.png)
+
+![eigenvalues_naturalist](results/experiment_run_20250317_132700/visualizations/eigenvalue_distribution_010.png)
+
+![global_eigenvalue_ratios](results/experiment_run_20250317_132700/dimensional_analysis/global_eigenvalue_ratios.png)
+
+## Overall Conclusions
+
+Analysis of quantum field-like properties in personality emergence:
+
+### Patterns Found
+
+### Implications for Quantum Field Theory of Consciousness
+

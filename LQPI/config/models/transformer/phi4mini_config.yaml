@@ -1,0 +1,84 @@
+# Model Configuration for Quantum Field Personality Experiments
+
+# Model selection
+model:
+  name: "microsoft/Phi-4-mini-instruct" 
+  revision: "main"
+  family: "phi"  
+  dtype: "float32"
+  device: "auto"
+  use_cache: true
+  compile: false
+
+# Tokenizer configuration
+tokenizer:
+  use_fast: true                           # Whether to use fast tokenizer implementation
+  padding_side: "left"                     # Padding side (left or right)
+  truncation_side: "right"                 # Truncation side (left or right)
+  max_length: 2048                         # Maximum sequence length
+
+  
+
+# Generation parameters
+generation:
+  max_new_tokens: 150                      # Maximum number of tokens to generate
+  min_new_tokens: null                     # Minimum number of tokens to generate
+  do_sample: true                          # Whether to use sampling
+  temperature: 0.7                         # Sampling temperature
+  top_p: 0.9                               # Top-p (nucleus) sampling
+  top_k: 50                                # Top-k sampling
+  repetition_penalty: 1.0                  # Repetition penalty
+  no_repeat_ngram_size: 0                  # Size of n-grams to avoid repeating
+  seed: null                               # Random seed for reproducibility
+
+# Quantization settings
+quantization:
+  enabled: false                          # Whether to use quantization
+  bits: 8                                  # Number of bits (4, 8)
+  group_size: 128                          # Group size for quantization
+  method: "gptq"                           # Quantization method (gptq, awq, etc.)
+
+# Caching settings
+cache:
+  enabled: true                            # Whether to use caching
+  dir: "cache"                             # Directory for caching
+
+# Resource limits
+resources:
+  max_memory_mb: null                      # Maximum memory usage in MB (null = unlimited)
+  cpu_offload: false                       # Whether to offload to CPU
+  disk_offload: false                      # Whether to offload to disk
+  load_in_4bit: false                      # Whether to load in 4-bit precision
+  load_in_8bit: false                      # Whether to load in 8-bit precision
+
+# Instrumentation settings (detailed)
+instrumentation:
+  # Attention layers to instrument
+  attention_layers:
+    enabled: true
+    patterns:
+      - "attn.out_proj"  # Phi-4 may use this pattern
+      - "attention.output.dense"  # Or this pattern
+    sampling_rate: 2
+    capture_qkv: true
+    capture_attention_weights: true
+  
+  # MLP layers to instrument
+  mlp_layers:
+    enabled: true
+    patterns:
+      - "mlp.down_proj"
+      - "mlp.fc2"  # Phi-4 may use this pattern
+    sampling_rate: 2
+  
+  # Embedding layers to instrument
+  embedding_layers:
+    enabled: false
+    patterns:
+      - "embed_tokens"
+    
+  # Logging settings for instrumentation
+  logging:
+    log_shapes: true                       # Log tensor shapes
+    log_values: false                      # Log actual tensor values (can be verbose)
+    max_sequence_print: 20                 # Maximum sequence length to print 
