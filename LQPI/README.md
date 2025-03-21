@@ -7,7 +7,7 @@ LQPI is a revolutionary framework that reveals how language models understand an
 
 ![Personality Activation Space](/LQPI/docs/images/activation_space_001.png)
 
-## For Technologists: Why LQPI Matters
+## For Quantum and AI Researchers: Why LQPI Matters
 
 Today's LLMs perform impressively but remain fundamentally opaque. LQPI bridges this gap by:
 
